@@ -1,4 +1,4 @@
-# Repositório de entrega dos desafios Tech-Challenge - Pós Tech Fiap (Turma 1IAST)
+# Repositório Tech-Challenge - Pós Tech Fiap (Turma 1IAST)
 
 Neste repositório, você encontrará todos os arquivos e análises desenvolvidos para a entrega dos desafios do Tech Challenge. 
 
