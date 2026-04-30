@@ -7,7 +7,7 @@ Net Promoter Score é uma pesquisa que utiliza dados quantitativos e qualitativo
 *Fonte: [Salesforce - NPS: O que é e como calcular?](https://www.salesforce.com/br/blog/net-promoter-score/#o-que-e-net-promoter-score-nps)*
 
 **Como o NPS é Calculado**</br>
-![]([/Assets/NPS-Arte-Blog-OP-02-768x591.png)
+!([/Assets/NPS-Arte-Blog-OP-02-768x591.png)
 
 
 
