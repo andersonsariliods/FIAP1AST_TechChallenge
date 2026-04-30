@@ -15,10 +15,26 @@ O objetivo deste projeto é analisar os determinantes da variabilidade do NPS no
 ## :mag_right: Entendendo nossa fonte de dados:
 A base de dados utilizada é o arquivo `desafio_nps_fase_1.csv`, localizado na pasta `/Dados`. O arquivo segue o formato CSV (delimitado por vírgulas) e contém 2.500 registros distribuídos em 20 colunas.</br></br>
 
-Dicionário de dados (Nome do campo / Descrição / Tipo / formato):
-- `customer_id`: Identificador único do cliente / Numérico / Inteiro
-- `order_id`:  Identificador único do pedido / Numérico / Inteiro
-- 
+Dicionário de dados (Nome do campo / Descrição / Tipo / Formato (Quando houver) ):</br>
+- `customer_id`: Identificador único do cliente / Numérico / Inteiro;
+- `customer_age`: Idade do cliente / Numérico / Inteiro;
+- `customer_region`: Região geográfica do cliente / Texto / *N/A;
+- `customer_tenure_months`: Tempo de relacionamento do cliente com a empresa (em meses) / Numérico / Inteiro;
+- `order_id`: Identificador único do pedido / Numérico / Inteiro;
+- `order_value`: Valor total do pedido / Numérico / Decimal;
+- `items_quantity`: Quantidade de itens no pedido / Numérico / Inteiro;
+- `discount_value`:  Valor de desconto aplicado ao pedido / Numérico / Decimal;
+- `payment_installments`: Número de parcelas do pagamento / Numérico / Inteiro;
+- `delivery_time_days`: Tempo total de entrega (em dias) / Numérico / Inteiro;
+- `delivery_delay_days`: Quantidade de dias de atraso na entrega / Numérico / Inteiro;
+- `freight_value`: Valor do frete / Numérico / Decimal;
+- `delivery_attempts`:  Número de tentativas de entrega / Numérico / Inteiro;
+- `customer_service_contacts`: Número de contatos do cliente com o atendimento / Numérico / Inteiro;
+- `resolution_time_days`: Tempo para resolução de problemas (em dias) / Numérico / Inteiro;
+- `nps_score`: Nota de satisfação do cliente (NPS), variando de 0 a 10, coletada após a experiência de compra / Numérico / Decimal;
+- `repeat_purchase_30d`: Indica se houve recompra em até 30 dias após o pedido (0 = não, 1 = sim) / Booleano / Inteiro;
+- `complaints_count`: Número de reclamações registradas pelo cliente / Numérico / Inteiro;
+- `csat_internal_score`: Score interno de satisfação do cliente / Numérico / Decimal;
 
 
-
+*N/A = Não aplicável.
