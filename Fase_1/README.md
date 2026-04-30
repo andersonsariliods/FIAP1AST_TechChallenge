@@ -2,12 +2,12 @@
 
 O objetivo deste projeto é analisar os determinantes da variabilidade do NPS no cenário de expansão do e-commerce, identificando os fatores operacionais e comportamentais que diferenciam promotores de detratores para otimizar a jornada do cliente./
 
-**O que é o NPS?**</br>
+**O que é o NPS?** </br>
 Net Promoter Score é uma pesquisa que utiliza dados quantitativos e qualitativos para avaliar o quanto os clientes estão satisfeitos com a experiência que tiveram (ou estão tendo) com uma determinada empresa. Ela também busca saber a probabilidade do consumidor indicar produtos e serviços a outras pessoas, estimando a lealdade à marca.</br>
 *Fonte: [Salesforce - NPS: O que é e como calcular?](https://www.salesforce.com/br/blog/net-promoter-score/#o-que-e-net-promoter-score-nps)*
 
-**Como o NPS é Calculado**</br>
-![](https://github.com/andersonsariliods/FIAP1AST_TechChallenge/blob/main/Fase_1/Assets/exemploNPS.png)
+**Como o NPS é Calculado** </br>
+![Fonte:https://blog.sistemapacto.com.br/pesquisa-satisfacao-academia/](https://github.com/andersonsariliods/FIAP1AST_TechChallenge/blob/main/Fase_1/Assets/exemploNPS.png)
 
 
 
