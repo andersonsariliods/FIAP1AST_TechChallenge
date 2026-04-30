@@ -35,6 +35,6 @@ Dicionário de dados (Nome do campo / Descrição / Tipo / Formato):</br>
 - `repeat_purchase_30d`: Indica se houve recompra em até 30 dias após o pedido (0 = não, 1 = sim) / Booleano / Inteiro;
 - `complaints_count`: Número de reclamações registradas pelo cliente / Numérico / Inteiro;
 - `csat_internal_score`: Score interno de satisfação do cliente / Numérico / Decimal;
+*N/A = Não aplicável.</br></br>
 
-
-*N/A = Não aplicável.
+## :page_with_curl: Metodologia utilizada:
