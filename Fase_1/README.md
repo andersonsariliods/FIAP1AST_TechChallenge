@@ -8,9 +8,11 @@ O objetivo deste projeto é analisar os determinantes da variabilidade do NPS no
 - Como podemos agir de forma proativa para melhorar a experiência dos nossos clientes?
 
 ## :open_file_folder: Como o conteúdo está organizado:
-- `Dados` - Fontes de dados utilizadas na para realizar a análise
-- `Análise` - Scripts utilizados na construção da análise exploratória de dados e seus modelos.
-- `storytelling` - Material de divulgação de nivel gerencial com as descobertas e direcionamentos dos dados analisados.
+- `/Dados` - Fontes de dados utilizadas na para realizar a análise
+- `/Análise` - Scripts utilizados na construção da análise exploratória de dados e seus modelos.
+- `/Storytelling` - Material de divulgação de nivel gerencial com as descobertas e direcionamentos dos dados analisados.
 
 ## :mag_right: Entendendo nossa fonte de dados:
-A fonte utilizada em nossa análise é o arquivo `desafio_nps_fase_1.csv`, sendo esse um arquivo no formato CSV (texto simples, que armazena dados em formato de tabela sendo delimitado pelo caracter `,`) no qual possuí 2.500 linhas e 20 colunas. 
+A base de dados utilizada é o arquivo `desafio_nps_fase_1.csv`, localizado na pasta `/Dados`. O arquivo segue o formato CSV (delimitado por vírgulas) e contém 2.500 registros distribuídos em 20 colunas.
+
+
