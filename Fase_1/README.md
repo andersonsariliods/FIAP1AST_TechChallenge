@@ -12,5 +12,5 @@ O objetivo deste projeto é analisar os determinantes da variabilidade do NPS no
 - `Análise` - Scripts utilizados na construção da análise exploratória de dados e seus modelos.
 - `storytelling` - Material de divulgação de nivel gerencial com as descobertas e direcionamentos dos dados analisados.
 
-##:mag_right: Entendendo nossa fonte de dados:
+## :mag_right: Entendendo nossa fonte de dados:
 
