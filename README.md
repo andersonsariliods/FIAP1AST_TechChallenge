@@ -1,2 +1,12 @@
-# FIAP1AST_TechChallenge_Fase1
-Repositório de entrega dos desafios do curso de pós graduação.
+# Repositório de entrega dos desafios Tech-Challenge - Pós Tech Fiap (Turma 1IAST)
+
+Neste repositório, você encontrará todos os arquivos e análises desenvolvidos para a entrega dos desafios do Tech Challenge. 
+
+
+Para cada fase, há uma pasta específica contendo um arquivo README detalhando o respectivo projeto, conforme listado abaixo:
+
+## Repositórios
+
+ - [Fase 1 - Business understanding and data analysis](https://github.com/andersonsariliods/FIAP1AST_TechChallenge/tree/main/Fase_1)
+
+
