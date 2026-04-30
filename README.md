@@ -7,6 +7,6 @@ Para cada fase, há uma pasta específica contendo um arquivo README detalhando 
 
 ## Repositórios
 
- - [Fase 1 - Business understanding and data analysis](https://github.com/andersonsariliods/FIAP1AST_TechChallenge/tree/main/Fase_1)
+ - [Fase 1 - Business understanding and data analysis](/Fase_1/README.md)
 
 
