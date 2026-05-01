@@ -6,7 +6,6 @@ O objetivo deste projeto é analisar os determinantes da variabilidade do NPS no
 - Quais fatores influenciam na satisfação do nossos clientes?
 - Como podemos agir de forma proativa para melhorar a experiência dos nossos clientes?
 
-
 ### **O que é o NPS?** </br>
 Net Promoter Score é uma pesquisa que utiliza dados quantitativos e qualitativos para avaliar o quanto os clientes estão satisfeitos com a experiência que tiveram (ou estão tendo) com uma determinada empresa. Ela também busca saber a probabilidade do consumidor indicar produtos e serviços a outras pessoas, estimando a lealdade à marca.</br>
 *Fonte: [Salesforce - NPS: O que é e como calcular?](https://www.salesforce.com/br/blog/net-promoter-score/#o-que-e-net-promoter-score-nps)*
@@ -54,6 +53,7 @@ As etapas que compõem este ciclo são:
 - `/Análise` - Scripts utilizados na construção da análise exploratória de dados e seus modelos.
 - `/Storytelling` - Material de divulgação de nivel gerencial com as descobertas e direcionamentos dos dados analisados.
 - `/Assets` - Conteúdo de apoio.
+
 
 ## :mag_right: Entendendo nossa fonte de dados:
 A base de dados utilizada é o arquivo `desafio_nps_fase_1.csv`, localizado na pasta `/Dados`. O arquivo segue o formato CSV (delimitado por vírgulas) e contém **2.500** registros distribuídos em **19**  colunas.</br></br>
