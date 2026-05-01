@@ -95,7 +95,7 @@ Dicionário de dados (Nome do coluna (variáveis) / Descrição / Tipo / Formato
 - `csat_internal_score`: Score interno de satisfação do cliente / Numérico / Decimal;
 *N/A = Não aplicável.</br></br>
 
-Ao analisarmos a base, podemos identificar a variavél `nps_score` como a que melhor representa o objetivo de nossa análise, através dela podemos identificar a nota efetuda pelos clientes, variando entre 0 e 10.
+Ao analisarmos a base de dados, identificamos a variável `nps_score` como a que melhor representa o objetivo central deste estudo. Através dela, capturamos a pontuação atribuída pelos clientes — em uma escala de 0 a 10 — o que nos permite estratificar os consumidores entre detratores (0 a 6), neutros (7 a 8) e promotores (9 a 10). A partir dessa segmentação, o foco analítico recai sobre o comportamento dos detratores: ao cruzarmos esse grupo com as demais variáveis operacionais, torna-se possível diagnosticar as causas raiz que levam a avaliações inferiores a 7 e propor melhorias assertivas.
 
 
 
