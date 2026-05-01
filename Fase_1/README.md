@@ -71,9 +71,9 @@ A detecção de um NPS negativo proveniente de um cliente detrator permite uma i
 
 
 ## :mag_right: Entendendo nossa fonte de dados:
-A base de dados utilizada é o arquivo no formato CSV (delimitado por vírgulas) `desafio_nps_fase_1.csv`, localizado na pasta `/Dados`. O arquivo contém **2.500** linhas (registros), distribuídas em **19** colunas. </br></br>
+A base de dados utilizada é o arquivo no formato CSV (delimitado por vírgulas) `desafio_nps_fase_1.csv`, localizado na pasta `/Dados`. O arquivo contém **2.500** linhas (registros), distribuídas em **19** colunas (variáveis). </br></br>
 
-Dicionário de dados (Nome do coluna / Descrição / Tipo / Formato):</br>
+Dicionário de dados (Nome do coluna (variáveis) / Descrição / Tipo / Formato):</br>
 - `customer_id`: Identificador único do cliente / Numérico / Inteiro;
 - `customer_age`: Idade do cliente / Numérico / Inteiro;
 - `customer_region`: Região geográfica do cliente / Texto / *N/A;
@@ -94,5 +94,10 @@ Dicionário de dados (Nome do coluna / Descrição / Tipo / Formato):</br>
 - `complaints_count`: Número de reclamações registradas pelo cliente / Numérico / Inteiro;
 - `csat_internal_score`: Score interno de satisfação do cliente / Numérico / Decimal;
 *N/A = Não aplicável.</br></br>
+
+Ao analisarmos a base, podemos identificar a variavél `nps_score` como a que melhor representa o objetivo de nossa análise, através dela podemos identificar a nota efetuda pelos clientes, variando entre 0 e 10.
+
+
+
 
 
