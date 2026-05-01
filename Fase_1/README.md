@@ -57,15 +57,15 @@ Visto que o NPS é uma métrica fundamental para compreendermos o nível de sati
 A detecção de um NPS negativo proveniente de um cliente detrator permite uma investigação profunda sobre o evento causador da insatisfação. Este diagnóstico pode revelar falhas como atrasos logísticos, produtos defeituosos ou lacunas de informação no ato da venda (má venda). Uma vez mapeada a causa raiz, torna-se possível aplicar ajustes precisos para corrigir o processo deficitário.Portanto, essa revisão deve ser contínua e abranger todas as áreas que compõem a jornada do cliente — incluindo Atendimento, Logística, Pricing e Pós-venda — assegurando que a melhoria na experiência seja sistêmica e sustentável.
 
 
-Fontes:</br> 
-  PREDOLIM, Matheus. PS: O que é e como calcular?. Salesforce, 2025.</br>
+*Fontes:</br>*
+  *PREDOLIM, Matheus. PS: O que é e como calcular?. Salesforce, 2025.</br>*
   Disponível em: https://www.salesforce.com/br/blog/net-promoter-score/#o-que-e-net-promoter-score-nps. Acesso em: 30 abr. 2026.
 
-  GOBI, Dianna. NPS para academias – O Guia Geral e Definitivo. Pacto Blog </br>
-  Disponível em: https://blog.sistemapacto.com.br/pesquisa-satisfacao-academia/. Acesso em: 30 abr. 2026. 
+  *GOBI, Dianna. NPS para academias – O Guia Geral e Definitivo. Pacto Blog </br>*
+  Disponível em: https://blog.sistemapacto.com.br/pesquisa-satisfacao-academia/. Acesso em: 30 abr. 2026.
 
-  BORIN, Alexandre. Net Promoter Score (NPS): o que é e como aplicar na sua empresa. Youtube, 2018 </br>
-  Disponível em: https://www.youtube.com/watch?v=eqCWnZCTVyU. Acesso em: 30 abr. 2026. 
+  *BORIN, Alexandre. Net Promoter Score (NPS): o que é e como aplicar na sua empresa. Youtube, 2018 </br>*
+  Disponível em: https://www.youtube.com/watch?v=eqCWnZCTVyU. Acesso em: 30 abr. 2026.
   
 
 
