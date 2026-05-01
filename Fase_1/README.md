@@ -103,6 +103,10 @@ Ao analisarmos a base de dados, identificamos a variável `nps_score` como a que
 
 ## :hammer_and_wrench: Preparação dos dados:
 
+Para que possamos realizar a análise exploratória de dados optamos pela ferramenta Microsoft Excel, uma vez que a possui todos os recursos necessários de forma simples e já bastante difundida no mercado contribuindo para melhorar o entendendimento de usuários não técnicos. 
+
+Como essa ferramenta possibilita a conexão com dados externos, utilizamos o recurso de importar dados (Obter Dados > De Arquivo > De Texto/CSV) e vincularemos com o arquivo  `desafio_nps_fase_1.csv`, localizado na pasta `/Dados` através do link:
+
 
 
 
