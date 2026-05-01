@@ -39,7 +39,7 @@ O Net Promoter Score (NPS) é uma métrica que utiliza dados quantitativos e qua
 O cálculo dessa métrica é simples, baseando-se na diferença entre os perfis de clientes:</br> 
 `NPS = % Clientes Promotores - % Clientes Detratores`
 
-O Papel dos Neutros: Quando há um volume expressivo de clientes neutros, a análise deve se voltar para ações estratégicas de engajamento, buscando convertê-los em promotores antes que qualquer insatisfação os leve para o grupo dos detratores.
+Quando há um volume expressivo de clientes neutros, a análise deve se voltar para ações estratégicas de engajamento, buscando convertê-los em promotores antes que qualquer insatisfação os leve para o grupo dos detratores.
 
 
 Escala de classificação (NPS):
