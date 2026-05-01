@@ -27,8 +27,27 @@ Conforme exemplo abaixo:</br>
 
 </br>
 
+## :page_with_curl: Metodologia utilizada:
 
+Para que possamos responder às perguntas centrais da análise, iremos adotar a metodologia CRISP-DM (Cross Industry Standard Process for Data Mining). Através dessa metodologia, organizamos o processo de análise de dados em seis etapas fundamentais, garantindo que o projeto mantenha o foco nos objetivos de negócio e que os resultados sejam tecnicamente sólidos e aplicáveis.
 
+As etapas que compõem este ciclo são:
+
+1 - Entendimento do Negócio (Business Understanding): Focamos em compreender os objetivos do projeto e os requisitos sob a perspectiva do negócio, convertendo esse conhecimento em uma definição de problema de análise de dados.
+
+2 - Entendimento dos Dados (Data Understanding): Iniciamos com a coleta de dados inicial para nos familiarizarmos com as informações, identificar problemas de qualidade ou descobrir insights preliminares.
+
+3 - Preparação dos Dados (Data Preparation): Esta fase abrange todas as atividades para construir o conjunto de dados final (limpeza, seleção de atributos e transformações) que será utilizado nas ferramentas de modelagem.
+
+4 - Modelagem (Modeling): Selecionamos e aplicamos diversas técnicas de modelagem e calibramos seus parâmetros para encontrar a melhor performance para o problema em questão.
+
+5- Avaliação (Evaluation): Antes de prosseguir para o deploy, revisamos criticamente o modelo para garantir que ele realmente atende aos objetivos de negócio definidos na primeira etapa.
+
+6 - Implantação (Deployment): O conhecimento gerado é organizado e apresentado de forma que o cliente ou a organização possa utilizá-lo, seja através de um relatório final ou de um sistema automatizado.
+
+*Nota: A principal vantagem do CRISP-DM é sua natureza iterativa. Frequentemente, a fase de Entendimento dos Dados revela que precisamos redefinir o Entendimento do Negócio, criando um fluxo de melhoria contínua durante todo o desenvolvimento do projeto.
+
+</br>
 
 ## :open_file_folder: Como o conteúdo está organizado:
 - `/Dados` - Fontes de dados utilizadas na para realizar a análise
@@ -61,22 +80,4 @@ Dicionário de dados (Nome do campo / Descrição / Tipo / Formato):</br>
 - `csat_internal_score`: Score interno de satisfação do cliente / Numérico / Decimal;
 *N/A = Não aplicável.</br></br>
 
-## :page_with_curl: Metodologia utilizada:
 
-Para que possamos responder às perguntas centrais da análise, iremos adotar a metodologia CRISP-DM (Cross Industry Standard Process for Data Mining). Através dessa metodologia, organizamos o processo de análise de dados em seis etapas fundamentais, garantindo que o projeto mantenha o foco nos objetivos de negócio e que os resultados sejam tecnicamente sólidos e aplicáveis.
-
-As etapas que compõem este ciclo são:
-
-1 - Entendimento do Negócio (Business Understanding): Focamos em compreender os objetivos do projeto e os requisitos sob a perspectiva do negócio, convertendo esse conhecimento em uma definição de problema de análise de dados.
-
-2 - Entendimento dos Dados (Data Understanding): Iniciamos com a coleta de dados inicial para nos familiarizarmos com as informações, identificar problemas de qualidade ou descobrir insights preliminares.
-
-3 - Preparação dos Dados (Data Preparation): Esta fase abrange todas as atividades para construir o conjunto de dados final (limpeza, seleção de atributos e transformações) que será utilizado nas ferramentas de modelagem.
-
-4 - Modelagem (Modeling): Selecionamos e aplicamos diversas técnicas de modelagem e calibramos seus parâmetros para encontrar a melhor performance para o problema em questão.
-
-5- Avaliação (Evaluation): Antes de prosseguir para o deploy, revisamos criticamente o modelo para garantir que ele realmente atende aos objetivos de negócio definidos na primeira etapa.
-
-6 - Implantação (Deployment): O conhecimento gerado é organizado e apresentado de forma que o cliente ou a organização possa utilizá-lo, seja através de um relatório final ou de um sistema automatizado.
-
-*Nota: A principal vantagem do CRISP-DM é sua natureza iterativa. Frequentemente, a fase de Entendimento dos Dados revela que precisamos redefinir o Entendimento do Negócio, criando um fluxo de melhoria contínua durante todo o desenvolvimento do projeto.
