@@ -97,6 +97,7 @@ Dicionário de dados (Nome do coluna (variáveis) / Descrição / Tipo / Formato
 
 Ao analisarmos a base de dados, identificamos a variável `nps_score` como a que melhor representa o objetivo central deste estudo. Através dela, capturamos a pontuação atribuída pelos clientes — em uma escala de 0 a 10 — o que nos permite estratificar os consumidores entre detratores (0 a 6), neutros (7 a 8) e promotores (9 a 10). A partir dessa segmentação, o foco analítico recai sobre o comportamento dos detratores: ao cruzarmos esse grupo com as demais variáveis operacionais, torna-se possível diagnosticar as causas raiz que levam a avaliações inferiores a 7 e propor melhorias assertivas.
 
+É importante ressaltar que a variável nps_score captura o sentimento do cliente no encerramento do processo de compra. Consequentemente, em alguns casos, ela pode não refletir com total exatidão a satisfação em todas as etapas intermediárias da jornada, estando sujeita a **vieses de recência** — onde a experiência final (positiva ou negativa) acaba por sobrepor percepções de etapas anteriores. 
 
 
 
