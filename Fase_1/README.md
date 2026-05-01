@@ -56,17 +56,7 @@ O Papel dos Neutros: Quando há um volume expressivo de clientes neutros, a aná
 [Salesforce - NPS: O que é e como calcular?](https://www.salesforce.com/br/blog/net-promoter-score/#o-que-e-net-promoter-score-nps) </br>
 [Prestus - Net Promoter Score (NPS): o que é e como aplicar na sua empresa](https://www.youtube.com/watch?v=eqCWnZCTVyU)*
 
-
-
-
-
-
-
-
-
-
-
-
+Visto que o NPS é uma métrica fundamental para compreendermos o nível de satisfação dos nossos consumidores, é imprescindível identificar quais processos operacionais não estão atendendo às suas expectativas. Ao revisá-los, garantimos a atuação constante na zona de excelência (entre 75 e 100), proporcionando uma jornada mais fluida e satisfatória. O objetivo final é elevar a fidelização e transformar nossos clientes em verdadeiros promotores da marca. 
 
 
 
