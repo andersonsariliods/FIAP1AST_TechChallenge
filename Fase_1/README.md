@@ -24,6 +24,7 @@ Net Promoter Score é uma pesquisa que utiliza dados quantitativos e qualitativo
 - `/Dados` - Fontes de dados utilizadas na para realizar a análise
 - `/Análise` - Scripts utilizados na construção da análise exploratória de dados e seus modelos.
 - `/Storytelling` - Material de divulgação de nivel gerencial com as descobertas e direcionamentos dos dados analisados.
+- `/Assets` - Conteúdo de apoio.
 
 ## :mag_right: Entendendo nossa fonte de dados:
 A base de dados utilizada é o arquivo `desafio_nps_fase_1.csv`, localizado na pasta `/Dados`. O arquivo segue o formato CSV (delimitado por vírgulas) e contém **2.500** registros distribuídos em **19**  colunas.</br></br>
