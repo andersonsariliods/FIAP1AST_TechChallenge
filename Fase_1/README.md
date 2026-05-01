@@ -55,6 +55,7 @@ As etapas que compõem este ciclo são:
 - `/Assets` - Conteúdo de apoio.
 
 
+
 ## :mag_right: Entendendo nossa fonte de dados:
 A base de dados utilizada é o arquivo `desafio_nps_fase_1.csv`, localizado na pasta `/Dados`. O arquivo segue o formato CSV (delimitado por vírgulas) e contém **2.500** registros distribuídos em **19**  colunas.</br></br>
 
