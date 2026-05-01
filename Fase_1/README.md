@@ -62,7 +62,6 @@ Dicionário de dados (Nome do campo / Descrição / Tipo / Formato):</br>
 *N/A = Não aplicável.</br></br>
 
 ## :page_with_curl: Metodologia utilizada:
-Metodologia Utilizada
 
 Para que possamos responder às perguntas centrais da análise, iremos adotar a metodologia CRISP-DM (Cross Industry Standard Process for Data Mining). Através dessa metodologia, organizamos o processo de análise de dados em seis etapas fundamentais, garantindo que o projeto mantenha o foco nos objetivos de negócio e que os resultados sejam tecnicamente sólidos e aplicáveis.
 
