@@ -28,7 +28,7 @@ As etapas que compõem este ciclo são:
 
 </br>
 
-### :chart_with_downwards_trend: Entedimento do Negócio:
+## :chart_with_downwards_trend: Entedimento do Negócio:
 Com a expansão do nosso e-commerce nacional, passamos a lidar com um volume crescente de pedidos, entregas e interações. Esse novo patamar operacional impactou diretamente a experiência do cliente no pós-compra, resultando em uma maior variabilidade no NPS (Net Promoter Score) — um ponto de atenção crítico identificado pela nossa área de Customer Experience (CX)
 
 Vale ressaltar que o NPS atualmente é coletado no encerramento da jornada de compra do cliente, o que nos limita a capacidade de antecipar e priorizar ações corretivas durante a jornada de compra do cliente.
