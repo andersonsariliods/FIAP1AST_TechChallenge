@@ -52,7 +52,7 @@ Exemplo Prático: Em um cenário com **212 (61,5%)** clientes promotores e **40 
 
 O Papel dos Neutros: Quando há um volume expressivo de clientes neutros, a análise deve se voltar para ações estratégicas de engajamento, buscando convertê-los em promotores antes que qualquer insatisfação os leve para o grupo dos detratores.
 
-*Fontes: 
+*Fontes:</br> 
 [Sistema Pacto - PS para academias – O Guia Geral e Definitivo](https://blog.sistemapacto.com.br/pesquisa-satisfacao-academia/) </br>
 [Salesforce - NPS: O que é e como calcular?](https://www.salesforce.com/br/blog/net-promoter-score/#o-que-e-net-promoter-score-nps) </br>
 [Even3 - O que é e como calcular o NPS (pesquisa de satisfação).](https://www.youtube.com/watch?v=10D0zds7l7o&t=74s)*
