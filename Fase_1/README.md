@@ -1,4 +1,6 @@
 # Análise dos fatores que influenciam a satisfação do nosso clientes. 
+### Autor
+- Anderson Sarilio (RM371709)
 
 O objetivo deste projeto é analisar os determinantes da variabilidade do NPS no cenário de expansão do e-commerce, identificando os fatores operacionais e comportamentais que diferenciam promotores de detratores para otimizar a jornada do cliente.</br>
 
@@ -6,23 +8,6 @@ O objetivo deste projeto é analisar os determinantes da variabilidade do NPS no
 - Quais fatores influenciam na satisfação do nossos clientes?
 - Como podemos agir de forma proativa para melhorar a experiência dos nossos clientes?
 
-### **O que é o NPS?** </br>
-Net Promoter Score é uma pesquisa que utiliza dados quantitativos e qualitativos para avaliar o quanto os clientes estão satisfeitos com a experiência que tiveram (ou estão tendo) com uma determinada empresa. Ela também busca saber a probabilidade do consumidor indicar produtos e serviços a outras pessoas, estimando a lealdade à marca.</br>
-*Fonte: [Salesforce - NPS: O que é e como calcular?](https://www.salesforce.com/br/blog/net-promoter-score/#o-que-e-net-promoter-score-nps)*
-
-**Como o NPS é Calculado** </br>
-O cálculo é bem simples de ser feito, basta fazer o seguinte:
-
-Número de clientes promotores – número de clientes detratores = resultado do NPS
-Por exemplo, se você possui 100 clientes promotores e 10 clientes detratores, a conta seria 100 – 15 e o NPS de 85. Nessa situação, o resultado 85 mostra que o nível de satisfação dos clientes está bastante positivo.
-
-E se o resultado do NPS apontar um número maior de clientes neutros?
-Nesse caso, será necessário avaliar o cenário em que sua empresa se encontra e pensar em ações que os deixem mais motivados e satisfeitos para que os mesmos possam se converter para o perfil de clientes promotores.
-
-Conforme exemplo abaixo:</br>
-![](https://github.com/andersonsariliods/FIAP1AST_TechChallenge/blob/main/Fase_1/Assets/exemploNPS.png)
-
-*Fonte: [Sistema Pacto - PS para academias – O Guia Geral e Definitivo](https://blog.sistemapacto.com.br/pesquisa-satisfacao-academia/)*
 
 </br>
 
