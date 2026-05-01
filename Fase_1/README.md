@@ -57,8 +57,8 @@ Visto que o NPS é uma métrica fundamental para compreendermos o nível de sati
 
 
 *Fontes:</br> 
-[Sistema Pacto - PS para academias – O Guia Geral e Definitivo](https://blog.sistemapacto.com.br/pesquisa-satisfacao-academia/) </br>
 [Salesforce - NPS: O que é e como calcular?](https://www.salesforce.com/br/blog/net-promoter-score/#o-que-e-net-promoter-score-nps) </br>
+[Sistema Pacto - PS para academias – O Guia Geral e Definitivo](https://blog.sistemapacto.com.br/pesquisa-satisfacao-academia/) </br>
 [Prestus - Net Promoter Score (NPS): o que é e como aplicar na sua empresa](https://www.youtube.com/watch?v=eqCWnZCTVyU)*
 
 
