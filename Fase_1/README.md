@@ -46,13 +46,16 @@ Zona de Pontuação Final (NPS):
   - Zona de Qualidade: 51 a 75;
   - Zona de Excelência: 76 a 100;
 
-Exemplo Prático: Em um cenário com **212 (61,5%)** clientes promotores e **40 (11,5%)** detratores, o resultado seria um NPS de **50%**, o que indica um nível de satisfação altamente positivo.
+Exemplo Prático: Em um cenário com **212 (61,5%)** clientes promotores e **40 (11,5%)** detratores, o resultado seria um NPS de **50%**, o que indica uma zona de Aperfeiçoamento.
 
 ![](https://github.com/andersonsariliods/FIAP1AST_TechChallenge/blob/main/Fase_1/Assets/exemploNPS.png)
 
 O Papel dos Neutros: Quando há um volume expressivo de clientes neutros, a análise deve se voltar para ações estratégicas de engajamento, buscando convertê-los em promotores antes que qualquer insatisfação os leve para o grupo dos detratores.
 
-Conforme exemplo abaixo:</br>
+*Fontes: 
+[Sistema Pacto - PS para academias – O Guia Geral e Definitivo](https://blog.sistemapacto.com.br/pesquisa-satisfacao-academia/)
+[Salesforce - NPS: O que é e como calcular?](https://www.salesforce.com/br/blog/net-promoter-score/#o-que-e-net-promoter-score-nps)*
+
 
 
 
