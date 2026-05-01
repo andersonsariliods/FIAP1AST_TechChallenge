@@ -30,6 +30,25 @@ As etapas que compõem este ciclo são:
 
 
 ### :chart_with_downwards_trend: Entedimento do Negócio:
+Com a expansão do nosso e-commerce nacional, passamos a lidar com um volume crescente de pedidos, entregas e interações. Esse novo patamar operacional impactou diretamente a experiência do cliente no pós-compra, resultando em uma maior variabilidade no NPS (Net Promoter Score) — um ponto de atenção crítico identificado pela nossa área de Customer Experience (CX)
+
+Vale ressaltar que o NPS atualmente é coletado no encerramento da jornada de compra do cliente, o que nos limita a capacidade de antecipar e priorizar ações corretivas durante a jornada de compra do cliente.
+
+**Entendendo o NPS (Net Promoter Score):**
+O Net Promoter Score (NPS) é uma métrica que utiliza dados quantitativos e qualitativos para mensurar a satisfação e a lealdade dos clientes em relação a uma marca. Mais do que medir um evento isolado, o NPS estima a probabilidade de um consumidor recomendar os produtos ou serviços da empresa a terceiros, servindo como um termômetro de fidelidade.
+O cálculo dessa métrica é simples, baseando-se na diferença entre os perfis de clientes: 
+`NPS = % Clientes Promotores - % Clientes Detratores`
+Exemplo Prático: Em um cenário com 100 clientes promotores e 15 detratores, o resultado seria um NPS de 85, o que indica um nível de satisfação altamente positivo.O Papel dos Neutros: Quando há um volume expressivo de clientes neutros, a análise deve se voltar para ações estratégicas de engajamento, buscando convertê-los em promotores antes que qualquer insatisfação os leve para o grupo dos detratores.
+
+
+
+
+
+
+
+
+
+
 
 
 
