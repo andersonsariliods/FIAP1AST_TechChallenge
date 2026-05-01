@@ -40,7 +40,9 @@ O Net Promoter Score (NPS) é uma métrica que utiliza dados quantitativos e qua
 O cálculo dessa métrica é simples, baseando-se na diferença entre os perfis de clientes:</br> 
 `NPS = % Clientes Promotores - % Clientes Detratores`
 
-Exemplo Prático: Em um cenário com 100 clientes promotores e 15 detratores, o resultado seria um NPS de 85, o que indica um nível de satisfação altamente positivo.O Papel dos Neutros: Quando há um volume expressivo de clientes neutros, a análise deve se voltar para ações estratégicas de engajamento, buscando convertê-los em promotores antes que qualquer insatisfação os leve para o grupo dos detratores.
+Exemplo Prático: Em um cenário com **100** clientes promotores e **15** detratores, o resultado seria um NPS de **85**, o que indica um nível de satisfação altamente positivo.
+
+O Papel dos Neutros: Quando há um volume expressivo de clientes neutros, a análise deve se voltar para ações estratégicas de engajamento, buscando convertê-los em promotores antes que qualquer insatisfação os leve para o grupo dos detratores.
 
 
 
