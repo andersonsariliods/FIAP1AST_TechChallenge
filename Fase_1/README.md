@@ -39,13 +39,13 @@ O Net Promoter Score (NPS) é uma métrica que utiliza dados quantitativos e qua
 O cálculo dessa métrica é simples, baseando-se na diferença entre os perfis de clientes:</br> 
 `NPS = % Clientes Promotores - % Clientes Detratores`
 
-Zona de Pontuação Final (NPS):
-  - Zona Crítica: -100 a 0;
-  - Zona de Aperfeiçoamento: 1 a 50;
-  - Zona de Qualidade: 51 a 75;
-  - Zona de Excelência: 76 a 100;
+Escala de classificação (NPS):
+- Entre 75% e 100%: Excelente
+- Entre 50% e 74%: Muito bom
+- Entre 0% e 49%: Razoável
+- Entre -100% e -1%: Ruim
 
-Exemplo Prático: Em um cenário com **212 (61,5%)** clientes promotores e **40 (11,5%)** detratores, o resultado seria um NPS de **50%**, o que indica uma zona de Aperfeiçoamento.
+Exemplo Prático: Em um cenário com **212 (61,5%)** clientes promotores e **40 (11,5%)** detratores, o resultado seria um NPS de **50%**, o que indica uma zona de clientes satisfeitos.
 
 ![](https://github.com/andersonsariliods/FIAP1AST_TechChallenge/blob/main/Fase_1/Assets/exemploNPS.png)
 
@@ -54,7 +54,7 @@ O Papel dos Neutros: Quando há um volume expressivo de clientes neutros, a aná
 *Fontes:</br> 
 [Sistema Pacto - PS para academias – O Guia Geral e Definitivo](https://blog.sistemapacto.com.br/pesquisa-satisfacao-academia/) </br>
 [Salesforce - NPS: O que é e como calcular?](https://www.salesforce.com/br/blog/net-promoter-score/#o-que-e-net-promoter-score-nps) </br>
-[Even3 - O que é e como calcular o NPS (pesquisa de satisfação).](https://www.youtube.com/watch?v=10D0zds7l7o&t=74s)*
+[Prestus - Net Promoter Score (NPS): o que é e como aplicar na sua empresa](https://www.youtube.com/watch?v=eqCWnZCTVyU)*
 
 
 
