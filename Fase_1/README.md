@@ -52,8 +52,9 @@ Exemplo Prático: Em um cenário com **212 (61,5%)** clientes promotores e **40 
 
 ![](https://github.com/andersonsariliods/FIAP1AST_TechChallenge/blob/main/Fase_1/Assets/exemploNPS.png)
 
-Visto que o NPS é uma métrica fundamental para compreendermos o nível de satisfação dos nossos consumidores, é imprescindível identificar quais processos operacionais não estão atendendo às suas expectativas. Ao revisá-los, garantimos a atuação constante na zona de excelência (entre 75 e 100), proporcionando uma jornada mais fluida e satisfatória. O objetivo final é elevar a fidelização e transformar nossos clientes em verdadeiros promotores da marca. 
+Visto que o NPS é uma métrica fundamental para compreendermos o nível de satisfação dos nossos consumidores, torna-se imprescindível identificar quais processos operacionais não estão atendendo às suas expectativas. Ao revisá-los, garantimos a atuação constante na zona de excelência (entre 75 e 100), proporcionando uma jornada mais fluida e satisfatória com o objetivo de elevar a fidelização e transformar clientes em promotores da marca. </br>
 
+A detecção de um NPS negativo proveniente de um cliente detrator permite uma investigação profunda sobre o evento causador da insatisfação. Este diagnóstico pode revelar falhas como atrasos logísticos, produtos defeituosos ou lacunas de informação no ato da venda (má venda). Uma vez mapeada a causa raiz, torna-se possível aplicar ajustes precisos para corrigir o processo deficitário.Portanto, essa revisão deve ser contínua e abranger todas as áreas que compõem a jornada do cliente — incluindo Atendimento, Logística, Pricing e Pós-venda — assegurando que a melhoria na experiência seja sistêmica e sustentável.
 
 
 *Fontes:</br> 
