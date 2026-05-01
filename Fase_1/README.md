@@ -44,6 +44,9 @@ Exemplo Prático: Em um cenário com **100** clientes promotores e **15** detrat
 
 O Papel dos Neutros: Quando há um volume expressivo de clientes neutros, a análise deve se voltar para ações estratégicas de engajamento, buscando convertê-los em promotores antes que qualquer insatisfação os leve para o grupo dos detratores.
 
+Conforme exemplo abaixo:</br>
+![](https://github.com/andersonsariliods/FIAP1AST_TechChallenge/blob/main/Fase_1/Assets/exemploNPS.png)
+
 
 
 
