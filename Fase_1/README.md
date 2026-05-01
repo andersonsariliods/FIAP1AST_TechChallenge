@@ -28,11 +28,8 @@ As etapas que compõem este ciclo são:
 
 </br>
 
-## :open_file_folder: Como o conteúdo está organizado:
-- `/Dados` - Fontes de dados utilizadas na para realizar a análise
-- `/Análise` - Scripts utilizados na construção da análise exploratória de dados e seus modelos.
-- `/Storytelling` - Material de divulgação de nivel gerencial com as descobertas e direcionamentos dos dados analisados.
-- `/Assets` - Conteúdo de apoio.
+
+### :chart_with_downwards_trend: Entedimento do Negócio:
 
 
 
