@@ -20,11 +20,13 @@ Conforme exemplo abaixo:</br>
 
 *Fonte: [Sistema Pacto - PS para academias – O Guia Geral e Definitivo](https://blog.sistemapacto.com.br/pesquisa-satisfacao-academia/)*
 
+</br>
 
-
-## :question: Principais perguntas a serem respondidas:
+:question: Principais perguntas a serem respondidas:
 - Quais fatores influenciam na satisfação do nossos clientes?
 - Como podemos agir de forma proativa para melhorar a experiência dos nossos clientes?
+
+
 
 ## :open_file_folder: Como o conteúdo está organizado:
 - `/Dados` - Fontes de dados utilizadas na para realizar a análise
