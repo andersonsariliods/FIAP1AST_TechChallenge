@@ -15,7 +15,7 @@ Por exemplo, se você possui 100 clientes promotores e 10 clientes detratores, a
 E se o resultado do NPS apontar um número maior de clientes neutros?
 Nesse caso, será necessário avaliar o cenário em que sua empresa se encontra e pensar em ações que os deixem mais motivados e satisfeitos para que os mesmos possam se converter para o perfil de clientes promotores.
 
-Conforme exemplo abaixo:
+Conforme exemplo abaixo:</br>
 ![](https://github.com/andersonsariliods/FIAP1AST_TechChallenge/blob/main/Fase_1/Assets/exemploNPS.png)
 
 *Fonte: [Sistema Pacto - PS para academias – O Guia Geral e Definitivo](https://blog.sistemapacto.com.br/pesquisa-satisfacao-academia/)*
