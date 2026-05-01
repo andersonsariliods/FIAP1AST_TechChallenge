@@ -10,13 +10,12 @@ Net Promoter Score é uma pesquisa que utiliza dados quantitativos e qualitativo
 O cálculo é bem simples de ser feito, basta fazer o seguinte:
 
 Número de clientes promotores – número de clientes detratores = resultado do NPS
-
 Por exemplo, se você possui 100 clientes promotores e 10 clientes detratores, a conta seria 100 – 15 e o NPS de 85. Nessa situação, o resultado 85 mostra que o nível de satisfação dos clientes está bastante positivo.
 
 E se o resultado do NPS apontar um número maior de clientes neutros?
-
 Nesse caso, será necessário avaliar o cenário em que sua empresa se encontra e pensar em ações que os deixem mais motivados e satisfeitos para que os mesmos possam se converter para o perfil de clientes promotores.
 
+Conforme exemplo abaixo:
 ![](https://github.com/andersonsariliods/FIAP1AST_TechChallenge/blob/main/Fase_1/Assets/exemploNPS.png)
 
 *Fonte: [Sistema Pacto - PS para academias – O Guia Geral e Definitivo](https://blog.sistemapacto.com.br/pesquisa-satisfacao-academia/)*
