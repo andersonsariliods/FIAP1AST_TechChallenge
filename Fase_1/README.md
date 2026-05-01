@@ -1,17 +1,13 @@
 # Análise dos fatores que influenciam a satisfação do nosso clientes. 
 *Autor: Anderson Sarilio - RM371709*
 
-O objetivo deste projeto é analisar os determinantes da variabilidade do NPS no cenário de expansão do e-commerce, identificando os fatores operacionais e comportamentais que diferenciam promotores de detratores para otimizar a jornada do cliente.</br>
+O objetivo deste projeto é analisar os determinantes da variabilidade do NPS no cenário de expansão do e-commerce, identificando os fatores operacionais e comportamentais que diferenciam promotores de detratores para otimizar a jornada do cliente.
 
 ## **:question: Principais perguntas a serem respondidas:**
 - Quais fatores influenciam na satisfação do nossos clientes?
 - Como podemos agir de forma proativa para melhorar a experiência dos nossos clientes?
-
-
-</br>
-
+  
 ## :page_with_curl: Metodologia utilizada:
-
 Para que possamos responder às perguntas centrais da análise, iremos adotar a metodologia CRISP-DM (Cross Industry Standard Process for Data Mining). Através dessa metodologia, organizamos o processo de análise de dados em seis etapas fundamentais, garantindo que o projeto mantenha o foco nos objetivos de negócio e que os resultados sejam tecnicamente sólidos e aplicáveis.
 
 As etapas que compõem este ciclo são:
