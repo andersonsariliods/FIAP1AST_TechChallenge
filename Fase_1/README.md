@@ -99,6 +99,10 @@ Ao analisarmos a base de dados, identificamos a variável `nps_score` como a que
 
 É importante ressaltar que a variável nps_score captura o sentimento do cliente no encerramento do processo de compra. Consequentemente, em alguns casos, ela pode não refletir com total exatidão a satisfação em todas as etapas intermediárias da jornada, estando sujeita a **vieses de recência** — onde a experiência final (positiva ou negativa) acaba por sobrepor percepções de etapas anteriores. 
 
+</br>
+
+## :hammer_and_wrench: Preparação dos dados:
+
 
 
 
