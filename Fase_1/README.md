@@ -58,7 +58,9 @@ A detecção de um NPS negativo proveniente de um cliente detrator permite uma i
 
 
 *Fontes:</br> 
-  - Artigo/Matéria: PREDOLIM, Matheus.PS: O que é e como calcular?. Salesforce, 2025. Disponível em: https://www.salesforce.com/br/blog/net-promoter-score/#o-que-e-net-promoter-score-nps. Acesso em: 1 mai. 2026.
+  Artigo/Matéria: PREDOLIM, Matheus.PS: O que é e como calcular?. Salesforce, 2025.
+  Disponível em: https://www.salesforce.com/br/blog/net-promoter-score/#o-que-e-net-promoter-score-nps. 
+  Acesso em: 1 mai. 2026.
 
 [Artigo NPS: O que é e como calcular?/Predolim Matheus](https://www.salesforce.com/br/blog/net-promoter-score/#o-que-e-net-promoter-score-nps) </br>
 [Sistema Pacto - PS para academias – O Guia Geral e Definitivo](https://blog.sistemapacto.com.br/pesquisa-satisfacao-academia/) </br>
