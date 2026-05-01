@@ -11,7 +11,7 @@ O objetivo deste projeto é analisar os determinantes da variabilidade do NPS no
 Net Promoter Score é uma pesquisa que utiliza dados quantitativos e qualitativos para avaliar o quanto os clientes estão satisfeitos com a experiência que tiveram (ou estão tendo) com uma determinada empresa. Ela também busca saber a probabilidade do consumidor indicar produtos e serviços a outras pessoas, estimando a lealdade à marca.</br>
 *Fonte: [Salesforce - NPS: O que é e como calcular?](https://www.salesforce.com/br/blog/net-promoter-score/#o-que-e-net-promoter-score-nps)*
 
-### **Como o NPS é Calculado** </br>
+**Como o NPS é Calculado** </br>
 O cálculo é bem simples de ser feito, basta fazer o seguinte:
 
 Número de clientes promotores – número de clientes detratores = resultado do NPS
