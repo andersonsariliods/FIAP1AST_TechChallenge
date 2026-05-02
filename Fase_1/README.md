@@ -50,7 +50,7 @@ Escala de classificação (NPS):
 
 Exemplo Prático: Em um cenário com **212 (61,5%)** clientes promotores e **40 (11,5%)** detratores, o resultado seria um NPS de **50%**, o que indica uma zona de clientes satisfeitos.
 
-![](https://github.com/andersonsariliods/FIAP1AST_TechChallenge/blob/main/Fase_1/Assets/exemploNPS.png)
+<img width="1834" height="409" alt="Exemplo de calculo de NPS" src="https://github.com/andersonsariliods/FIAP1AST_TechChallenge/blob/main/Fase_1/Assets/exemploNPS.png" />
 
 Visto que o NPS é uma métrica fundamental para compreendermos o nível de satisfação dos nossos consumidores, torna-se imprescindível identificar quais processos operacionais não estão atendendo às suas expectativas. Ao revisá-los, garantimos a atuação constante na zona de excelência (entre 75 e 100), proporcionando uma jornada mais fluida e satisfatória com o objetivo de elevar a fidelização e transformar clientes em promotores da marca. </br>
 
@@ -112,7 +112,7 @@ O resultado dessa análise foi consolidado no arquivo `NPS Dataviz.xlsx`, dispon
 Após a importação, analisamos os dados obtidos e realizamos as seguintes etapas de limpeza, transformação dos dados através do recurso **Power Query** disponível no **Microsoft Excel**. 
 
   1 - Titulos das colunas: Seleciona para que seja mantidada a primeira linha do arquivo `desafio_nps_fase_1.csv` como o nome das colunas.
-  <img width="1834" height="409" alt="image" src="https://github.com/user-attachments/assets/8334edb3-194a-42fd-8b97-4e66c9f3bcbc" />
+  <img width="1834" height="409" alt="image" src="https://github.com/andersonsariliods/FIAP1AST_TechChallenge/blob/main/Fase_1/Assets/dataprep_titulos_paracolunas.png" />
 
 
 
