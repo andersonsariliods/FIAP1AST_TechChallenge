@@ -78,7 +78,7 @@ A detecção de um NPS negativo proveniente de um cliente detrator permite uma i
   Disponível em: https://www.youtube.com/watch?v=eqCWnZCTVyU. Acesso em: 30 abr. 2026.
 
 
-## :mag_right: Entendendo nossa fonte de dados:
+## :mag_right: Entendimento dos Dados:
 A base de dados utilizada é o arquivo no formato CSV (delimitado por vírgulas) `desafio_nps_fase_1.csv`, localizado na pasta `/Dados`. O arquivo contém **2.500** linhas (registros), distribuídas em **19** colunas (variáveis). </br></br>
 
 Dicionário de dados (Nome do coluna (variáveis) / Descrição / Tipo / Formato):</br>
