@@ -126,7 +126,10 @@ Após a importação, analisamos os dados obtidos e realizamos as seguintes etap
 - **Transformação de texto para numeros decimais:** Transformamos as colunas `order_value`, `discount_value`, `freight_value`, `nps_score`, `csat_internal_score` para o formato numérico tipo decimal.
   
   <img width="1834" height="409" alt="Transformação de texto para inteiros" src="https://github.com/andersonsariliods/FIAP1AST_TechChallenge/blob/main/Fase_1/Assets/dataprep_transf_decimais.png" />
-    
+
+- **Inclusão de coluna :** Foi inserida a coluna `nps_description` na qual classifica os valores da coluna `nps_score` conforme o range entre 0 a 6 =  Detrataores, entre 7 a 8 = Neutros e Entre 9 e 10 = Promotores.
+  
+  <img width="1834" height="409" alt="Transformação de texto para inteiros" src="https://github.com/andersonsariliods/FIAP1AST_TechChallenge/blob/main/Fase_1/Assets/dataprep_inclusao_nps_description.png" />
 
 
 
