@@ -77,8 +77,6 @@ A detecção de um NPS negativo proveniente de um cliente detrator permite uma i
   *BORIN, Alexandre. Net Promoter Score (NPS): o que é e como aplicar na sua empresa. Youtube, 2018 </br>*
   Disponível em: https://www.youtube.com/watch?v=eqCWnZCTVyU. Acesso em: 30 abr. 2026.
 
-  </br>
-
 
 ## :mag_right: Entendendo nossa fonte de dados:
 A base de dados utilizada é o arquivo no formato CSV (delimitado por vírgulas) `desafio_nps_fase_1.csv`, localizado na pasta `/Dados`. O arquivo contém **2.500** linhas (registros), distribuídas em **19** colunas (variáveis). </br></br>
