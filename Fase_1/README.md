@@ -109,9 +109,11 @@ Aproveitando a capacidade da ferramenta de conectar-se a fontes externas, utiliz
 
 O resultado dessa análise foi consolidado no arquivo `NPS Dataviz.xlsx`, disponível na pasta `/Análise`, garantindo que qualquer usuário possa realizar o download e reproduzir os resultados obtidos.
 
-Após a importação dos dados, analisamos os dados obtidos e realizamos as seguintes etapas de limpeza, transformação dos dados através do recurso Power Query disponível no **Microsoft Excel**. 
+Após a importação, analisamos os dados obtidos e realizamos as seguintes etapas de limpeza, transformação dos dados através do recurso **Power Query** disponível no **Microsoft Excel**. 
 
-  1 - Seleção dos ti
+  1 - Titulos das colunas: Seleciona para que seja mantidada a primeira linha do arquivo `desafio_nps_fase_1.csv` como o nome das colunas.
+  <img width="1834" height="409" alt="image" src="https://github.com/user-attachments/assets/8334edb3-194a-42fd-8b97-4e66c9f3bcbc" />
+
 
 
 
