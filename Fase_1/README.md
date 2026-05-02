@@ -36,6 +36,11 @@ Vale ressaltar que o NPS atualmente é coletado no encerramento da jornada de co
 **Entendendo o NPS (Net Promoter Score):**</br>
 O Net Promoter Score (NPS) é uma métrica que utiliza dados quantitativos e qualitativos para mensurar a satisfação e a lealdade dos clientes em relação a uma marca. Mais do que medir um evento isolado, o NPS estima a probabilidade de um consumidor recomendar os produtos ou serviços da empresa a terceiros, servindo como um termômetro de fidelidade.</br)
 
+Range de classificação dos clientes conforme a nota:
+ - Entre 0 e 6: Detratores
+ - Entre 7 e 8: Neutro
+ - Entre 9 e 10: Promotores
+
 O cálculo dessa métrica é simples, baseando-se na diferença entre os perfis de clientes:</br> 
 `NPS = % Clientes Promotores - % Clientes Detratores`
 
