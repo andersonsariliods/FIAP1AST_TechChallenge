@@ -2,17 +2,17 @@
 *Autor: Anderson Sarilio - RM371709*
 
 O objetivo deste projeto é analisar os determinantes da variabilidade do NPS no cenário de expansão do e-commerce, identificando os fatores operacionais e comportamentais que diferenciam promotores de detratores para otimizar a jornada do cliente.
+  
+## **:question: Principais perguntas a serem respondidas:**
+- Quais fatores influenciam na satisfação do nossos clientes?
+- Como podemos agir de forma proativa para melhorar a experiência dos nossos clientes?
 
 ## :open_file_folder: Como o conteúdo está organizado:
 - `/Dados` - Fontes de dados utilizadas na para realizar a análise
 - `/Análise` - Scripts utilizados na construção da análise exploratória de dados e seus modelos.
 - `/Storytelling` - Material de divulgação de nivel gerencial com as descobertas e direcionamentos dos dados analisados.
 - `/Assets` - Conteúdo de apoio.
-  
-## **:question: Principais perguntas a serem respondidas:**
-- Quais fatores influenciam na satisfação do nossos clientes?
-- Como podemos agir de forma proativa para melhorar a experiência dos nossos clientes?
-  
+    
 ## :page_with_curl: Metodologia utilizada:
 Para que possamos responder às perguntas centrais da análise, iremos adotar a metodologia **CRISP-DM (Cross Industry Standard Process for Data Mining)**. Através dessa metodologia, organizamos o processo de análise de dados em seis etapas fundamentais, garantindo que o projeto mantenha o foco nos objetivos de negócio e que os resultados sejam tecnicamente sólidos e aplicáveis. Embora o CRISP-DM preveja uma etapa de modelagem estatística/preditiva, este projeto foca na Análise Exploratória de Dados (EDA). Portanto, a fase de 'Modelagem' será adaptada para a exploração de correlações e padrões comportamentais, visando responder aos questionamentos de negócio de forma visual e descritiva.
 
