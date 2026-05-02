@@ -111,8 +111,8 @@ O resultado dessa análise foi consolidado no arquivo `NPS Dataviz.xlsx`, dispon
 
 Após a importação, analisamos os dados obtidos e realizamos as seguintes etapas de limpeza, transformação dos dados através do recurso **Power Query** disponível no **Microsoft Excel**. 
 
-  1 - Titulos das colunas: Seleciona para que seja mantidada a primeira linha do arquivo `desafio_nps_fase_1.csv` como o nome das colunas.
-  <img width="1834" height="409" alt="image" src="https://github.com/andersonsariliods/FIAP1AST_TechChallenge/blob/main/Fase_1/Assets/dataprep_titulos_paracolunas.png" />
+  - Titulos das colunas: Seleciona para que seja mantidada a primeira linha do arquivo `desafio_nps_fase_1.csv` como o nome das colunas.
+  <img width="1834" height="409" alt="Preparação de dados conversão da primeira linha para titulos" src="https://github.com/andersonsariliods/FIAP1AST_TechChallenge/blob/main/Fase_1/Assets/dataprep_titulos_paracolunas.png" />
 
 
 
