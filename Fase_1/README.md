@@ -8,7 +8,7 @@ O objetivo deste projeto é analisar os determinantes da variabilidade do NPS no
 - Como podemos agir de forma proativa para melhorar a experiência dos nossos clientes?
   
 ## :page_with_curl: Metodologia utilizada:
-Para que possamos responder às perguntas centrais da análise, iremos adotar a metodologia **CRISP-DM (Cross Industry Standard Process for Data Mining)**. Através dessa metodologia, organizamos o processo de análise de dados em seis etapas fundamentais, garantindo que o projeto mantenha o foco nos objetivos de negócio e que os resultados sejam tecnicamente sólidos e aplicáveis.
+Para que possamos responder às perguntas centrais da análise, iremos adotar a metodologia **CRISP-DM (Cross Industry Standard Process for Data Mining)**. Através dessa metodologia, organizamos o processo de análise de dados em seis etapas fundamentais, garantindo que o projeto mantenha o foco nos objetivos de negócio e que os resultados sejam tecnicamente sólidos e aplicáveis. Embora o CRISP-DM preveja uma etapa de modelagem estatística/preditiva, este projeto foca na Análise Exploratória de Dados (EDA). Portanto, a fase de 'Modelagem' será adaptada para a exploração de correlações e padrões comportamentais, visando responder aos questionamentos de negócio de forma visual e descritiva.
 
 As etapas que compõem este ciclo são:
 
@@ -18,11 +18,11 @@ As etapas que compõem este ciclo são:
 
 3 - Preparação dos Dados (Data Preparation): Esta fase abrange todas as atividades para construir o conjunto de dados final (limpeza, seleção de atributos e transformações) que será utilizado nas ferramentas de modelagem.
 
-4 - Modelagem (Modeling): Selecionamos e aplicamos diversas técnicas de modelagem e calibramos seus parâmetros para encontrar a melhor performance para o problema em questão.
+4 -Análise exploratória e Descoberta: Selecionamos as princiapais variáveis e realizamos a análise aprofundada dos dados buscando obter insigths relevantes aos objetivos do negócio.
 
-5- Avaliação (Evaluation): Antes de prosseguir para o deploy, revisamos criticamente o modelo para garantir que ele realmente atende aos objetivos de negócio definidos na primeira etapa.
+5- Avaliação dos resultados (Evaluation): Antes de prosseguir para a comunicação dos insigths, revisamos criticamente os resultados para garantir que ele realmente responde as perguntas de negócio definidos na primeira etapa.
 
-6 - Implantação (Deployment): O conhecimento gerado é organizado e apresentado de forma que o cliente ou a organização possa utilizá-lo, seja através de um relatório final ou de um sistema automatizado.
+6 - Comunicação de Insights : O conhecimento gerado é organizado e apresentado de forma que o cliente ou a organização possa utilizá-lo, seja através de um relatório final ou de um sistema automatizado.
 
 *Nota: A principal vantagem do CRISP-DM é sua natureza iterativa. Frequentemente, a fase de Entendimento dos Dados revela que precisamos redefinir o Entendimento do Negócio, criando um fluxo de melhoria contínua durante todo o desenvolvimento do projeto.
 
