@@ -114,6 +114,12 @@ Após a importação, analisamos os dados obtidos e realizamos as seguintes etap
   - Titulos das colunas: Seleciona para que seja mantidada a primeira linha do arquivo `desafio_nps_fase_1.csv` como o nome das colunas.
   <img width="1834" height="409" alt="Preparação de dados conversão da primeira linha para titulos" src="https://github.com/andersonsariliods/FIAP1AST_TechChallenge/blob/main/Fase_1/Assets/dataprep_titulos_paracolunas.png" />
 
+  - Transformação de texto para numeros inteiros: Por default ao importar um arquivo do tipo CSV no Microsoft Excel, para evitar erros de conversão ele considera todos os dados como do tipo texto, sendo necessário a conversão para tipo mais adequados de acordo com a necessidade. Para o nosso arquivo as colunas `customer_id`, `customer_age`, `customer_tenure_months`, `order_id`, `items_quantity`, `payment_installments`, `delivery_time_days`, `delivery_delay_days`, `delivery_attempts`, `customer_service_contacts`, `resolution_time_days`, `repeat_purchase_30d`, `complaints_count` para o formato numérico tipo inteiro.
+  <img width="1834" height="409" alt="Transformação de texto para inteiros" src="https://github.com/andersonsariliods/FIAP1AST_TechChallenge/blob/main/Fase_1/Assets/dataprep_titulos_paracolunas.png" />
+    
+
+
+
 
 
 
