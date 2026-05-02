@@ -125,7 +125,7 @@ Após a importação, analisamos os dados obtidos e realizamos as seguintes etap
 
 - **Transformação de texto para numeros decimais:** Transformamos as colunas `order_value`, `discount_value`, `freight_value`, `nps_score`, `csat_internal_score` para o formato numérico tipo decimal.
   
-  <img width="1834" height="409" alt="Transformação de texto para inteiros" src="https://github.com/andersonsariliods/FIAP1AST_TechChallenge/blob/main/Fase_1/Assets/dataprep_transf_inteiros.png" />
+  <img width="1834" height="409" alt="Transformação de texto para inteiros" src="https://github.com/andersonsariliods/FIAP1AST_TechChallenge/blob/main/Fase_1/Assets/dataprep_transf_decimais.png" />
     
 
 
