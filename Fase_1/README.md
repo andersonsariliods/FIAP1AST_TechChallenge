@@ -117,7 +117,13 @@ Após a importação, analisamos os dados obtidos e realizamos as seguintes etap
 
 </br>
 
-- **Transformação de texto para numeros inteiros:** Por default ao importar um arquivo do tipo CSV no Microsoft Excel, para evitar erros de conversão ele considera todos os dados como do tipo texto, sendo necessário a conversão para tipo mais adequados de acordo com a necessidade. Para o nosso arquivo as colunas `customer_id`, `customer_age`, `customer_tenure_months`, `order_id`, `items_quantity`, `payment_installments`, `delivery_time_days`, `delivery_delay_days`, `delivery_attempts`, `customer_service_contacts`, `resolution_time_days`, `repeat_purchase_30d`, `complaints_count` para o formato numérico tipo inteiro.
+- **Transformação de texto para numeros inteiros:** Por padrão ao importar um arquivo do tipo CSV no Microsoft Excel, para evitar erros de conversão ele considera todos os dados como do tipo texto, sendo necessário a conversão para tipo mais adequados de acordo com a necessidade. Para o nosso arquivo as colunas `customer_id`, `customer_age`, `customer_tenure_months`, `order_id`, `items_quantity`, `payment_installments`, `delivery_time_days`, `delivery_delay_days`, `delivery_attempts`, `customer_service_contacts`, `resolution_time_days`, `repeat_purchase_30d`, `complaints_count` para o formato numérico tipo inteiro.
+  
+  <img width="1834" height="409" alt="Transformação de texto para inteiros" src="https://github.com/andersonsariliods/FIAP1AST_TechChallenge/blob/main/Fase_1/Assets/dataprep_transf_inteiros.png" />
+
+</br>
+
+- **Transformação de texto para numeros decimais:** Transformamos as colunas `order_value`, `discount_value`, `freight_value`, `nps_score`, `csat_internal_score` para o formato numérico tipo decimal.
   
   <img width="1834" height="409" alt="Transformação de texto para inteiros" src="https://github.com/andersonsariliods/FIAP1AST_TechChallenge/blob/main/Fase_1/Assets/dataprep_transf_inteiros.png" />
     
