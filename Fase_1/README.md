@@ -3,6 +3,12 @@
 
 O objetivo deste projeto é analisar os determinantes da variabilidade do NPS no cenário de expansão do e-commerce, identificando os fatores operacionais e comportamentais que diferenciam promotores de detratores para otimizar a jornada do cliente.
 
+## :open_file_folder: Como o conteúdo está organizado:
+- `/Dados` - Fontes de dados utilizadas na para realizar a análise
+- `/Análise` - Scripts utilizados na construção da análise exploratória de dados e seus modelos.
+- `/Storytelling` - Material de divulgação de nivel gerencial com as descobertas e direcionamentos dos dados analisados.
+- `/Assets` - Conteúdo de apoio.
+  
 ## **:question: Principais perguntas a serem respondidas:**
 - Quais fatores influenciam na satisfação do nossos clientes?
 - Como podemos agir de forma proativa para melhorar a experiência dos nossos clientes?
