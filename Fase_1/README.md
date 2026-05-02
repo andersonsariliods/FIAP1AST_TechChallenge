@@ -32,8 +32,6 @@ As etapas que compõem este ciclo são:
 
 *Nota: A principal vantagem do CRISP-DM é sua natureza iterativa. Frequentemente, a fase de Entendimento dos Dados revela que precisamos redefinir o Entendimento do Negócio, criando um fluxo de melhoria contínua durante todo o desenvolvimento do projeto.
 
-</br>
-
 ## :chart_with_downwards_trend: Entedimento do Negócio:
 Com a expansão do nosso e-commerce nacional, passamos a lidar com um volume crescente de pedidos, entregas e interações. Esse novo patamar operacional impactou diretamente a experiência do cliente no pós-compra, resultando em uma maior variabilidade no NPS (Net Promoter Score) — um ponto de atenção crítico identificado pela nossa área de Customer Experience (CX)
 
