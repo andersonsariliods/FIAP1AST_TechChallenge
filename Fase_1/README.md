@@ -138,7 +138,9 @@ Após a importação, analisamos os dados obtidos e realizamos as seguintes etap
   
   <img width="600" height="600" alt="Transformação de texto para inteiros" src="https://github.com/andersonsariliods/FIAP1AST_TechChallenge/blob/main/Fase_1/Assets/dataprep_inclusao_nps_description.png" />
 
-- **Valores Nulos ou Discrepantes:** Após análise dos valores contidos em cada coluna, não foi necessário a aplicação de técncias para tratamento de valores nulos ou discreptantes,
+- **Valores Nulos ou Discrepantes:** Após análise dos valores contidos em cada coluna, não foi necessário a aplicação de técncias para tratamento de valores nulos ou discreptantes.
+
+## :mag_right: Entendimento dos Dados:
 
 
 
