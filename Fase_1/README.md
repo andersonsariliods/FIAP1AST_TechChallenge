@@ -158,6 +158,13 @@ Em seguida geramos o gráfico da quantidade de clientes detratores por região, 
 <img width="100%" height="100%" alt="Imagem 1" src="https://github.com/andersonsariliods/FIAP1AST_TechChallenge/blob/main/Fase_1/Assets/dataprep_img8.png" />
 <img width="50%" height="50%" alt="Imagem 1" src="https://github.com/andersonsariliods/FIAP1AST_TechChallenge/blob/main/Fase_1/Assets/detratores_regiao.png" />
 
+Em seguida, efetuamos o calculo de NPS por região, buscando observar, quais regiões possuiam o pior NPS:
+<img width="100%" height="100%" alt="Imagem 1" src="https://github.com/andersonsariliods/FIAP1AST_TechChallenge/blob/main/Fase_1/Assets/dataprep_img9.png" />
+
+E por fim, geramos uma matriz de heatmap de correção, busando entender quais variaveis estavam relacionadas ao NPS Negativo:
+<img width="100%" height="100%" alt="Imagem 1" src="https://github.com/andersonsariliods/FIAP1AST_TechChallenge/blob/main/Fase_1/Assets/dataprep_img10.png" />
+<img width="50%" height="50%" alt="Imagem 1" src="https://github.com/andersonsariliods/FIAP1AST_TechChallenge/blob/main/Fase_1/Assets/Matriz_correlacao.png" />
+
 
 
 
