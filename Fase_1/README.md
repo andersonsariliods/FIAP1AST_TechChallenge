@@ -156,7 +156,7 @@ Em seguida geramos o gráfico da distribuição de clientes detratores, evidenci
 
 Em seguida geramos o gráfico da quantidade de clientes detratores por região, buscando observar se a concetração estava alocada em uma região específica:
 <img width="100%" height="100%" alt="Imagem 1" src="https://github.com/andersonsariliods/FIAP1AST_TechChallenge/blob/main/Fase_1/Assets/dataprep_img8.png" />
-<img width="100%" height="60%" alt="Imagem 1" src="https://github.com/andersonsariliods/FIAP1AST_TechChallenge/blob/main/Fase_1/Assets/detratores_regiao.png" />
+<img width="40%" height="40%" alt="Imagem 1" src="https://github.com/andersonsariliods/FIAP1AST_TechChallenge/blob/main/Fase_1/Assets/detratores_regiao.png" />
 
 
 
