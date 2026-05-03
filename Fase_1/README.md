@@ -10,8 +10,8 @@ O objetivo deste projeto é analisar os determinantes da variabilidade do NPS no
 ## :open_file_folder: Como o conteúdo está organizado:
 - `/Dados` - Fontes de dados utilizadas na para realizar a análise
 - `/Análise` - Scripts utilizados na construção da análise exploratória de dados e seus modelos.
-- `/Storytelling` - Material de divulgação de nivel gerencial com as descobertas e direcionamentos dos dados analisados.
-- `/Assets` - Conteúdo de apoio.
+- `/Storytelling` - Material de divulgação de nivel gerencial (apresentação e vídeo) com as descobertas e direcionamentos dos dados analisados.
+- `/Assets` - Arquivos/Conteúdo de apoio.
     
 ## :page_with_curl: Metodologia utilizada:
 Para que possamos responder às perguntas centrais da análise, iremos adotar a metodologia **CRISP-DM (Cross Industry Standard Process for Data Mining)**. Através dessa metodologia, organizamos o processo de análise de dados em seis etapas fundamentais, garantindo que o projeto mantenha o foco nos objetivos de negócio e que os resultados sejam tecnicamente sólidos e aplicáveis. Embora o CRISP-DM preveja uma etapa de modelagem estatística/preditiva, este projeto foca na Análise Exploratória de Dados (EDA). Portanto, a fase de 'Modelagem' será adaptada para a exploração de correlações e padrões comportamentais, visando responder aos questionamentos de negócio de forma visual e descritiva.
@@ -115,11 +115,15 @@ Aproveitando a capacidade da ferramenta de conectar-se a fontes externas, utiliz
 
 O resultado dessa análise foi consolidado no arquivo `FIAP1AST_TechChallenge_Fase1.ipynb`, disponível na pasta `/Análise`, garantindo que qualquer usuário possa realizar o download e reproduzir os resultados obtidos.
 
-Após a importação, analisamos os dados obtidos afim de verificar se houve inconsistencias na etapa de importação dos dados: 
-
-  <img width="1834" height="409" alt="Preparação de dados conversão da primeira linha para titulos" src="https://github.com/andersonsariliods/FIAP1AST_TechChallenge/blob/main/Fase_1/Assets/dataprep_titulos_paracolunas.png" />
-
+Após a importação, analisamos os dados obtidos afim de verificar se houve inconsistências na etapa de importação dos dados: 
+<img width="100%" height="100%" alt="Imagem 1" src="https://github.com/andersonsariliods/FIAP1AST_TechChallenge/blob/main/Fase_1/Assets/dataprep_img1.png" />
 </br>
+
+Realizamos também a análise do formato dos dados, verificando se os tipos estão adequados ao dicionario de dados e se existem dados nulos ou discrepantes.
+<img width="100%" height="100%" alt="Imagem 1" src="https://github.com/andersonsariliods/FIAP1AST_TechChallenge/blob/main/Fase_1/Assets/dataprep_img1.png" />
+</br>
+
+
 
 - **Transformação de texto para numeros inteiros:** Por padrão ao importar um arquivo do tipo CSV no Microsoft Excel, para evitar erros de conversão ele considera todos os dados como do tipo texto, sendo necessário a conversão para tipo mais adequados de acordo com a necessidade. Para o nosso arquivo as colunas `customer_id`, `customer_age`, `customer_tenure_months`, `order_id`, `items_quantity`, `payment_installments`, `delivery_time_days`, `delivery_delay_days`, `delivery_attempts`, `customer_service_contacts`, `resolution_time_days`, `repeat_purchase_30d`, `complaints_count` para o formato numérico tipo inteiro.
   
