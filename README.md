@@ -7,8 +7,10 @@ Cada pasta contém a documentação técnica, scripts e artefatos específicos:
 | Fase | Tópico Principal | Descrição |
 | :--- | :--- | :--- |
 | [**Fase 1**](/Fase_1/README.md) | **Business Understanding & Data Analysis** | Diagnóstico inicial do NPS, análise de faturamento por região e identificação de correlações entre atrasos logísticos e detração de clientes. ![Status](https://img.shields.io/badge/status-Fase%201%20Conclu%C3%ADda-success)|
-| **Fase 2** | *Em breve* | - |
-| **Fase 3** | *Em breve* | - |
+| **Fase 2** | **Data Prepare** | *Em breve* |
+| **Fase 3** | **Modeling Machine Learning** | *Em breve* |
+| **Fase 4** | **Deep Learning and NLP** | *Em breve* |
+| **Fase 5** | **Model deployment (MLOps)** | *Em breve* |
 
 
 
