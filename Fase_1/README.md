@@ -120,7 +120,7 @@ Após a importação, analisamos os dados obtidos afim de verificar se houve inc
 </br>
 
 Realizamos também a análise do formato dos dados, verificando se os tipos estão adequados ao dicionario de dados e se existem dados nulos ou discrepantes.
-<img width="100%" height="100%" alt="Imagem 1" src="https://github.com/andersonsariliods/FIAP1AST_TechChallenge/blob/main/Fase_1/Assets/dataprep_img1.png" />
+<img width="100%" height="100%" alt="Imagem 1" src="https://github.com/andersonsariliods/FIAP1AST_TechChallenge/blob/main/Fase_1/Assets/dataprep_img2.png" />
 </br>
 
 
