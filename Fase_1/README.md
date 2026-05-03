@@ -136,7 +136,7 @@ Incluimos uma nova coluna chamada `nps_category`, com a classificação do agrup
 Nesta etapa, aplicamos análise de dados/estatisticas para transformar dados operacionais em inteligência de negócio. Abaixo, detalhamos a jornada técnica percorrida para fundamentar nossas descobertas.
 
 :bulb: Dica de Navegação:
-  - **Perfil Técnico:** Continue lendo esta seção para entender os métodos, correlações e transformações de dados.
+  - **Perfil Técnico:** Continue lendo esta seção para entender os métodos, correlações e transformações de dados, o codigo demostrando abaixo pode ser consultado em `/Analise`.
   - **Perfil de Negócios:** Para uma visão executiva e visual (Storytelling), consulte os materiais no diretório `/Storytelling`.
 
 Iniciamos a etapa de análise exploratória a partir do cálculo do NPS Geral, uma vez que o conjunto de dados original disponibiliza apenas as notas individuais por pedido.  
