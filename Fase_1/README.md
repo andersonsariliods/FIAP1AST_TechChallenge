@@ -101,6 +101,7 @@ Dicionário de dados (Nome do coluna (variáveis) / Descrição / Tipo / Formato
 - `repeat_purchase_30d`: Indica se houve recompra em até 30 dias após o pedido (0 = não, 1 = sim) / Booleano / Inteiro;
 - `complaints_count`: Número de reclamações registradas pelo cliente / Numérico / Inteiro;
 - `csat_internal_score`: Score interno de satisfação do cliente / Numérico / Decimal;
+
 *N/A = Não aplicável.</br></br>
 
 Ao analisarmos a base de dados, identificamos a variável `nps_score` como a que melhor representa o objetivo central deste estudo. Através dela, capturamos a pontuação atribuída pelos clientes — em uma escala de 0 a 10 — o que nos permite estratificar os consumidores entre detratores (0 a 6), neutros (7 a 8) e promotores (9 a 10). A partir dessa segmentação, o foco analítico recai sobre o comportamento dos detratores: ao cruzarmos esse grupo com as demais variáveis operacionais, torna-se possível diagnosticar as causas raiz que levam a avaliações inferiores a 7 e propor melhorias assertivas.
@@ -109,7 +110,7 @@ Ao analisarmos a base de dados, identificamos a variável `nps_score` como a que
 
 ## :hammer_and_wrench: Preparação dos dados:
 
-Para a realização da análise exploratória de dados, optamos pelo uso da ferramenta Google Colab, que um serviço gratuito em nuvem do Google que permite escrever e executar codigos em Python diretamente no navegador, reduzindo a necessidade de configurações complexas de ambiente. 
+Para a realização da preparação e análise exploratória dos dados, optamos pelo uso da ferramenta Google Colab, que um serviço gratuito em nuvem do Google que permite escrever e executar codigos em Python diretamente no navegador, reduzindo a necessidade de configurações complexas de ambiente. 
 
 Aproveitando a capacidade da ferramenta de conectar-se a fontes externas, utilizamos o recurso de importação de dados diretamente com o arquivo `desafio_nps_fase_1.csv` (localizado na pasta `/Dados`) via funcionalidade RAW do GitHub. Esse método permite o consumo dos dados brutos, sem a formatação HTML da interface, através do link: (https://raw.githubusercontent.com/andersonsariliods/FIAP1AST_TechChallenge/refs/heads/main/Fase_1/Dados/desafio_nps_fase_1.csv)
 
@@ -125,9 +126,10 @@ Realizamos também a análise do formato dos dados, verificando se os tipos est�
 </br>
 Após análise dos valores contidos em cada coluna, não foi necessário a aplicação de técncias para tratamento de valores nulos ou discreptantes.
 
+Incluimos uma nova coluna chamada `nps_category`, com a classificação do agrupamento das notas de NPS, conforme descrito no item **Entendimento do Negócio > Range de classificação dos clientes**:
+<img width="100%" height="100%" alt="Imagem 1" src="https://github.com/andersonsariliods/FIAP1AST_TechChallenge/blob/main/Fase_1/Assets/dataprep_img4.png" />
 
-
-
+</br>
 ## :chart_with_upwards_trend: Análise exploratória e Descoberta:
 
 
