@@ -143,12 +143,12 @@ Iniciamos a etapa de análise exploratória a partir do cálculo do NPS Geral, u
 **Diagnóstico Inicial**
   **- NPS Geral: -79.96.**
   - Classificação: Zona Crítica (índice significativamente abaixo de zero).  
-  - Variável Alvo: Definimos a variável nps_score como o eixo central da análise para identificar os principais detratores da experiência do cliente.
+  - Variável Alvo: Definimos a variável `nps_score` como o eixo central da análise para identificar os principais detratores da experiência do cliente.
 <img width="100%" height="100%" alt="Imagem 1" src="https://github.com/andersonsariliods/FIAP1AST_TechChallenge/blob/main/Fase_1/Assets/dataprep_img5.png" />
 
-Para entender o contexto do nosso problema/negócio, geramos o gráfico de vendas totais e a participação por região, sendo assim possível identificar quais regiões são mais significativas ao nosso e-commerce:
-<img width="100%" height="100%" alt="Imagem 1" src="https://github.com/andersonsariliods/FIAP1AST_TechChallenge/blob/main/Fase_1/Assets/dataprep_img5.png" />
-
+Para entender o contexto do nosso negócio, analisamos o faturamento total e a participação percentual de cada região. Esta visão nos permite identificar quais mercados são mais significativos para a estratégia de expansão do e-commerce:
+<img width="100%" height="100%" alt="Imagem 1" src="https://github.com/andersonsariliods/FIAP1AST_TechChallenge/blob/main/Fase_1/Assets/dataprep_img6.png" />
+<img width="100%" height="100%" alt="Imagem 1" src="https://github.com/andersonsariliods/FIAP1AST_TechChallenge/blob/main/Fase_1/Assets/vendas_por_regiao.png" />
 
 
 
