@@ -128,7 +128,7 @@ Após análise dos valores contidos em cada coluna, não foi necessário a aplic
 
 
 
-## :mag_right: Entendimento dos Dados:
+## :chart_with_upwards_trend: Análise exploratória e Descoberta:
 
 
 
