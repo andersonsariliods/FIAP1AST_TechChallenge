@@ -130,7 +130,26 @@ Incluimos uma nova coluna chamada `nps_category`, com a classificação do agrup
 <img width="100%" height="100%" alt="Imagem 1" src="https://github.com/andersonsariliods/FIAP1AST_TechChallenge/blob/main/Fase_1/Assets/dataprep_img4.png" />
 
 </br>
+
 ## :chart_with_upwards_trend: Análise exploratória e Descoberta:
+Nesta etapa, aplicamos análise de dados/estatisticas para transformar dados operacionais em inteligência de negócio. Abaixo, detalhamos a jornada técnica percorrida para fundamentar nossas descobertas.
+
+:bulb: Dica de Navegação:
+  - **Perfil Técnico:** Continue lendo esta seção para entender os métodos, correlações e transformações de dados.
+  - **Perfil de Negócios:** Para uma visão executiva e visual (Storytelling), consulte os materiais no diretório `/Storytelling`.
+
+Iniciamos a etapa de análise exploratória a partir do cálculo do NPS Geral, uma vez que o conjunto de dados original disponibiliza apenas as notas individuais por pedido.  
+
+**Diagnóstico Inicial**
+  **- NPS Geral: -79.96.**
+  - Classificação: Zona Crítica (índice significativamente abaixo de zero).  
+  - Variável Alvo: Definimos a variável nps_score como o eixo central da análise para identificar os principais detratores da experiência do cliente.
+<img width="100%" height="100%" alt="Imagem 1" src="https://github.com/andersonsariliods/FIAP1AST_TechChallenge/blob/main/Fase_1/Assets/dataprep_img5.png" />
+
+Para entender o contexto do nosso problema/negócio, geramos o gráfico de vendas totais e a participação por região, sendo assim possível identificar quais regiões são mais significativas ao nosso e-commerce:
+<img width="100%" height="100%" alt="Imagem 1" src="https://github.com/andersonsariliods/FIAP1AST_TechChallenge/blob/main/Fase_1/Assets/dataprep_img5.png" />
+
+
 
 
 
