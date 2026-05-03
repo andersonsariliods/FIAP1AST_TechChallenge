@@ -148,15 +148,15 @@ Iniciamos a etapa de análise exploratória a partir do cálculo do NPS Geral, u
 
 Para entender o contexto do nosso negócio, analisamos o faturamento total e a participação percentual de cada região. Esta visão nos permite identificar quais mercados são mais significativos para a estratégia de expansão do e-commerce:
 <img width="100%" height="100%" alt="Imagem 1" src="https://github.com/andersonsariliods/FIAP1AST_TechChallenge/blob/main/Fase_1/Assets/dataprep_img6.png" />
-<img width="100%" height="60%" alt="Imagem 1" src="https://github.com/andersonsariliods/FIAP1AST_TechChallenge/blob/main/Fase_1/Assets/vendas_por_regiao.png" />
+<img width="50%" height="50%" alt="Imagem 1" src="https://github.com/andersonsariliods/FIAP1AST_TechChallenge/blob/main/Fase_1/Assets/vendas_por_regiao.png" />
 
 Em seguida geramos o gráfico da distribuição de clientes detratores, evidenciando que 84% dos nossos clientes são detratores:
 <img width="100%" height="100%" alt="Imagem 1" src="https://github.com/andersonsariliods/FIAP1AST_TechChallenge/blob/main/Fase_1/Assets/dataprep_img7.png" />
-<img width="100%" height="60%" alt="Imagem 1" src="https://github.com/andersonsariliods/FIAP1AST_TechChallenge/blob/main/Fase_1/Assets/distribuicao_detratores.png" />
+<img width="50%" height="50%" alt="Imagem 1" src="https://github.com/andersonsariliods/FIAP1AST_TechChallenge/blob/main/Fase_1/Assets/distribuicao_detratores.png" />
 
 Em seguida geramos o gráfico da quantidade de clientes detratores por região, buscando observar se a concetração estava alocada em uma região específica:
 <img width="100%" height="100%" alt="Imagem 1" src="https://github.com/andersonsariliods/FIAP1AST_TechChallenge/blob/main/Fase_1/Assets/dataprep_img8.png" />
-<img width="40%" height="40%" alt="Imagem 1" src="https://github.com/andersonsariliods/FIAP1AST_TechChallenge/blob/main/Fase_1/Assets/detratores_regiao.png" />
+<img width="50%" height="50%" alt="Imagem 1" src="https://github.com/andersonsariliods/FIAP1AST_TechChallenge/blob/main/Fase_1/Assets/detratores_regiao.png" />
 
 
 
