@@ -10,7 +10,7 @@ O objetivo deste projeto é analisar os determinantes da variabilidade do NPS no
 ## :open_file_folder: Como o conteúdo está organizado:
 - `/Assets` - Arquivos/Conteúdo de apoio.
 - `/Dados` - Fontes de dados utilizadas na para realizar a análise
-- `/Análise` - Scripts utilizados na construção da análise exploratória de dados e seus modelos.
+- `/Analise` - Scripts utilizados na construção da análise exploratória de dados e seus modelos.
 - `/Storytelling` - Material de divulgação de nivel gerencial (apresentação e vídeo) com as descobertas e direcionamentos dos dados analisados.
 
     
