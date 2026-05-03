@@ -103,15 +103,11 @@ Dicionário de dados (Nome do coluna (variáveis) / Descrição / Tipo / Formato
 - `complaints_count`: Número de reclamações registradas pelo cliente / Numérico / Inteiro;
 - `csat_internal_score`: Score interno de satisfação do cliente / Numérico / Decimal;
 
-*N/A = Não aplicável.</br></br>
-
-Ao analisarmos a base de dados, identificamos a variável `nps_score` como a que melhor representa o objetivo central deste estudo. Através dela, capturamos a pontuação atribuída pelos clientes — em uma escala de 0 a 10 — o que nos permite estratificar os consumidores entre detratores (0 a 6), neutros (7 a 8) e promotores (9 a 10). A partir dessa segmentação, o foco analítico recai sobre o comportamento dos detratores: ao cruzarmos esse grupo com as demais variáveis operacionais, torna-se possível diagnosticar as causas raiz que levam a avaliações inferiores a 7 e propor melhorias assertivas.
-
-É importante ressaltar que a variável nps_score captura o sentimento do cliente no encerramento do processo de compra. Consequentemente, em alguns casos, ela pode não refletir com total exatidão a satisfação em todas as etapas intermediárias da jornada, estando sujeita a **vieses de recência** — onde a experiência final (positiva ou negativa) acaba por sobrepor percepções de etapas anteriores. 
+*N/A = Não aplicável.</br>
 
 ## :hammer_and_wrench: Preparação dos dados:
 
-Para a realização da preparação e análise exploratória dos dados, optamos pelo uso da ferramenta Google Colab, que um serviço gratuito em nuvem do Google que permite escrever e executar codigos em Python diretamente no navegador, reduzindo a necessidade de configurações complexas de ambiente. 
+Para a realização da preparação e análise exploratória dos dados, optamos pelo uso da ferramenta Google Colab, que é um serviço gratuito em nuvem do Google que permite escrever e executar codigos em Python diretamente no navegador, reduzindo a necessidade de configurações complexas de ambiente. 
 
 Aproveitando a capacidade da ferramenta de conectar-se a fontes externas, utilizamos o recurso de importação de dados diretamente com o arquivo `desafio_nps_fase_1.csv` (localizado na pasta `/Dados`) via funcionalidade RAW do GitHub. Esse método permite o consumo dos dados brutos, sem a formatação HTML da interface, através do link: (https://raw.githubusercontent.com/andersonsariliods/FIAP1AST_TechChallenge/refs/heads/main/Fase_1/Dados/desafio_nps_fase_1.csv)
 
@@ -136,7 +132,7 @@ Incluimos uma nova coluna chamada `nps_category`, com a classificação do agrup
 Nesta etapa, aplicamos análise de dados/estatisticas para transformar dados operacionais em inteligência de negócio. Abaixo, detalhamos a jornada técnica percorrida para fundamentar nossas descobertas.
 
 :bulb: Dica de Navegação:
-  - **Perfil Técnico:** Continue lendo esta seção para entender os métodos, correlações e transformações de dados, o codigo demostrando abaixo pode ser consultado em `/Analise`.
+  - **Perfil Técnico:** Continue lendo esta seção para entender os métodos, correlações e transformações de dados, o código das etapas abaixo pode serl localizado no arquivo `FIAP1AST_TechChallenge_Fase1.ipynb`, disponível na pasta `/Análise`
   - **Perfil de Negócios:** Para uma visão executiva e visual (Storytelling), consulte os materiais no diretório `/Storytelling`.
 
 Iniciamos a etapa de análise exploratória a partir do cálculo do NPS Geral, uma vez que o conjunto de dados original disponibiliza apenas as notas individuais por pedido.  
@@ -144,25 +140,33 @@ Iniciamos a etapa de análise exploratória a partir do cálculo do NPS Geral, u
 **Diagnóstico Inicial**
   **- NPS Geral: -79.96.**
   - Classificação: Zona Crítica (índice significativamente abaixo de zero).  
-  - Variável Alvo: Definimos a variável `nps_score` como o eixo central da análise para identificar os principais detratores da experiência do cliente.
+  - Variável Alvo: Definimos a variável `nps_score` como o eixo central da análise para identificar os principais detratores da experiência do cliente. Através dessa variável, capturamos a pontuação atribuída pelos clientes — em uma escala de 0 a 10 — o que nos permite estratificar os consumidores entre detratores (0 a 6), neutros (7 a 8) e promotores (9 a 10). A partir dessa segmentação, o foco analítico recai sobre o comportamento dos detratores: ao cruzarmos esse grupo com as demais variáveis operacionais, torna-se possível diagnosticar as causas raiz que levam a avaliações inferiores a 7 e propor melhorias assertivas.
+
+É importante ressaltar que a variável nps_score captura o sentimento do cliente no encerramento do processo de compra. Consequentemente, em alguns casos, ela pode não refletir com total exatidão a satisfação em todas as etapas intermediárias da jornada, estando sujeita a **vieses de recência** — onde a experiência final (positiva ou negativa) acaba por sobrepor percepções de etapas anteriores.
+
 <img width="100%" height="100%" alt="Imagem 1" src="https://github.com/andersonsariliods/FIAP1AST_TechChallenge/blob/main/Fase_1/Assets/dataprep_img5.png" />
 
 Para entender o contexto do nosso negócio, analisamos o faturamento total e a participação percentual de cada região. Esta visão nos permite identificar quais mercados são mais significativos para a estratégia de expansão do e-commerce:
+
 <img width="100%" height="100%" alt="Imagem 1" src="https://github.com/andersonsariliods/FIAP1AST_TechChallenge/blob/main/Fase_1/Assets/dataprep_img6.png" />
 <img width="50%" height="50%" alt="Imagem 1" src="https://github.com/andersonsariliods/FIAP1AST_TechChallenge/blob/main/Fase_1/Assets/vendas_por_regiao.png" />
 
 Em seguida geramos o gráfico da distribuição de clientes detratores, evidenciando que 84% dos nossos clientes são detratores:
+
 <img width="100%" height="100%" alt="Imagem 1" src="https://github.com/andersonsariliods/FIAP1AST_TechChallenge/blob/main/Fase_1/Assets/dataprep_img7.png" />
 <img width="50%" height="50%" alt="Imagem 1" src="https://github.com/andersonsariliods/FIAP1AST_TechChallenge/blob/main/Fase_1/Assets/distribuicao_detratores.png" />
 
 Em seguida geramos o gráfico da quantidade de clientes detratores por região, buscando observar se a concetração estava alocada em uma região específica:
+
 <img width="100%" height="100%" alt="Imagem 1" src="https://github.com/andersonsariliods/FIAP1AST_TechChallenge/blob/main/Fase_1/Assets/dataprep_img8.png" />
 <img width="50%" height="50%" alt="Imagem 1" src="https://github.com/andersonsariliods/FIAP1AST_TechChallenge/blob/main/Fase_1/Assets/detratores_regiao.png" />
 
 Em seguida, efetuamos o calculo de NPS por região, buscando observar, quais regiões possuiam o pior NPS:
+
 <img width="100%" height="100%" alt="Imagem 1" src="https://github.com/andersonsariliods/FIAP1AST_TechChallenge/blob/main/Fase_1/Assets/dataprep_img9.png" />
 
 E por fim, geramos uma matriz de heatmap de correção, busando entender quais variaveis estavam relacionadas ao NPS Negativo:
+
 <img width="100%" height="100%" alt="Imagem 1" src="https://github.com/andersonsariliods/FIAP1AST_TechChallenge/blob/main/Fase_1/Assets/dataprep_img10.png" />
 <img width="50%" height="50%" alt="Imagem 1" src="https://github.com/andersonsariliods/FIAP1AST_TechChallenge/blob/main/Fase_1/Assets/Matriz_correlacao.png" />
 
