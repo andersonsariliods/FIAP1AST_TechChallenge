@@ -109,7 +109,7 @@ Ao analisarmos a base de dados, identificamos a variável `nps_score` como a que
 
 ## :hammer_and_wrench: Preparação dos dados:
 
-Para a realização da análise exploratória de dados, optamos pelo **Microsoft Excel**, visto que a ferramenta oferece todos os recursos necessários de forma intuitiva e é amplamente difundida no mercado, o que facilita o entendimento por parte de usuários não técnicos.
+Para a realização da análise exploratória de dados, optamos pelo uso da ferramenta Google Colab, 
 
 Aproveitando a capacidade da ferramenta de conectar-se a fontes externas, utilizamos o recurso de importação de dados (**Obter Dados > De Arquivo > De Texto/CSV**). O vínculo foi estabelecido diretamente com o arquivo `desafio_nps_fase_1.csv` (localizado na pasta `/Dados`) via funcionalidade RAW do GitHub. Esse método permite o consumo dos dados brutos, sem a formatação HTML da interface, através do link: (https://raw.githubusercontent.com/andersonsariliods/FIAP1AST_TechChallenge/refs/heads/main/Fase_1/Dados/desafio_nps_fase_1.csv)
 
