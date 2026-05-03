@@ -148,7 +148,7 @@ Iniciamos a etapa de análise exploratória a partir do cálculo do NPS Geral, u
 
 Para entender o contexto do nosso negócio, analisamos o faturamento total e a participação percentual de cada região. Esta visão nos permite identificar quais mercados são mais significativos para a estratégia de expansão do e-commerce:
 <img width="100%" height="100%" alt="Imagem 1" src="https://github.com/andersonsariliods/FIAP1AST_TechChallenge/blob/main/Fase_1/Assets/dataprep_img6.png" />
-<img width="100%" height="100%" alt="Imagem 1" src="https://github.com/andersonsariliods/FIAP1AST_TechChallenge/blob/main/Fase_1/Assets/vendas_por_regiao.png" />
+<img width="70%" height="70%" alt="Imagem 1" src="https://github.com/andersonsariliods/FIAP1AST_TechChallenge/blob/main/Fase_1/Assets/vendas_por_regiao.png" />
 
 
 
