@@ -123,25 +123,10 @@ Realizamos também a análise do formato dos dados, verificando se os tipos est�
 <img width="100%" height="100%" alt="Imagem 1" src="https://github.com/andersonsariliods/FIAP1AST_TechChallenge/blob/main/Fase_1/Assets/dataprep_img2.png" />
 <img width="100%" height="100%" alt="Imagem 1" src="https://github.com/andersonsariliods/FIAP1AST_TechChallenge/blob/main/Fase_1/Assets/dataprep_img3.png" />
 </br>
+Após análise dos valores contidos em cada coluna, não foi necessário a aplicação de técncias para tratamento de valores nulos ou discreptantes.
 
 
 
-- **Transformação de texto para numeros inteiros:** Por padrão ao importar um arquivo do tipo CSV no Microsoft Excel, para evitar erros de conversão ele considera todos os dados como do tipo texto, sendo necessário a conversão para tipo mais adequados de acordo com a necessidade. Para o nosso arquivo as colunas `customer_id`, `customer_age`, `customer_tenure_months`, `order_id`, `items_quantity`, `payment_installments`, `delivery_time_days`, `delivery_delay_days`, `delivery_attempts`, `customer_service_contacts`, `resolution_time_days`, `repeat_purchase_30d`, `complaints_count` para o formato numérico tipo inteiro.
-  
-  <img width="1834" height="409" alt="Transformação de texto para inteiros" src="https://github.com/andersonsariliods/FIAP1AST_TechChallenge/blob/main/Fase_1/Assets/dataprep_transf_inteiros.png" />
-
-</br>
-
-- **Transformação de texto para numeros decimais:** Transformamos as colunas `order_value`, `discount_value`, `freight_value`, `nps_score`, `csat_internal_score` para o formato numérico tipo decimal.
-  
-  <img width="1834" height="409" alt="Transformação de texto para inteiros" src="https://github.com/andersonsariliods/FIAP1AST_TechChallenge/blob/main/Fase_1/Assets/dataprep_transf_decimais.png" />
-
-- **Inclusão de coluna :** Foi inserida a coluna `nps_description` na qual classifica os valores da coluna `nps_score` conforme o range:
-   Entre 0 a 6 =  Detrataores // Entre 7 a 8 = Neutros // Entre 9 e 10 = Promotores.
-  
-  <img width="600" height="600" alt="Transformação de texto para inteiros" src="https://github.com/andersonsariliods/FIAP1AST_TechChallenge/blob/main/Fase_1/Assets/dataprep_inclusao_nps_description.png" />
-
-- **Valores Nulos ou Discrepantes:** Após análise dos valores contidos em cada coluna, não foi necessário a aplicação de técncias para tratamento de valores nulos ou discreptantes.
 
 ## :mag_right: Entendimento dos Dados:
 
