@@ -165,7 +165,8 @@ E por fim, geramos uma matriz de heatmap de correção, busando entender quais v
 <img width="100%" height="100%" alt="Imagem 1" src="https://github.com/andersonsariliods/FIAP1AST_TechChallenge/blob/main/Fase_1/Assets/dataprep_img10.png" />
 <img width="50%" height="50%" alt="Imagem 1" src="https://github.com/andersonsariliods/FIAP1AST_TechChallenge/blob/main/Fase_1/Assets/Matriz_correlacao.png" />
 
-
+## :mega: Comunicação de Insights:
+Todo o conteúdo referente a comunicão e insigths está disponivel em `Storytelling`.
 
 
 
