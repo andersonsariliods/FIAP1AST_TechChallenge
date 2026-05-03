@@ -8,9 +8,9 @@ O objetivo deste projeto é analisar os determinantes da variabilidade do NPS no
 - Como podemos agir de forma proativa para melhorar a experiência dos nossos clientes?
 
 ## :open_file_folder: Como o conteúdo está organizado:
+- `/Analise` - Scripts utilizados na construção da análise exploratória de dados e seus modelos.
 - `/Assets` - Arquivos/Conteúdo de apoio.
 - `/Dados` - Fontes de dados utilizadas na para realizar a análise
-- `/Analise` - Scripts utilizados na construção da análise exploratória de dados e seus modelos.
 - `/Storytelling` - Material de divulgação de nivel gerencial (apresentação e vídeo) com as descobertas e direcionamentos dos dados analisados.
 
     
