@@ -150,6 +150,15 @@ Para entender o contexto do nosso negócio, analisamos o faturamento total e a p
 <img width="100%" height="100%" alt="Imagem 1" src="https://github.com/andersonsariliods/FIAP1AST_TechChallenge/blob/main/Fase_1/Assets/dataprep_img6.png" />
 <img width="100%" height="60%" alt="Imagem 1" src="https://github.com/andersonsariliods/FIAP1AST_TechChallenge/blob/main/Fase_1/Assets/vendas_por_regiao.png" />
 
+Em seguida geramos o gráfico da distribuição de clientes detratores, evidenciando que 84% dos nossos clientes são detratores:
+<img width="100%" height="100%" alt="Imagem 1" src="https://github.com/andersonsariliods/FIAP1AST_TechChallenge/blob/main/Fase_1/Assets/dataprep_img7.png" />
+<img width="100%" height="60%" alt="Imagem 1" src="https://github.com/andersonsariliods/FIAP1AST_TechChallenge/blob/main/Fase_1/Assets/distribuicao_detratores.png" />
+
+Em seguida geramos o gráfico da quantidade de clientes detratores por região, buscando observar se a concetração estava alocada em uma região específica:
+<img width="100%" height="100%" alt="Imagem 1" src="https://github.com/andersonsariliods/FIAP1AST_TechChallenge/blob/main/Fase_1/Assets/dataprep_img8.png" />
+<img width="100%" height="60%" alt="Imagem 1" src="https://github.com/andersonsariliods/FIAP1AST_TechChallenge/blob/main/Fase_1/Assets/detratores_regiao.png" />
+
+
 
 
 
