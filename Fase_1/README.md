@@ -109,16 +109,14 @@ Ao analisarmos a base de dados, identificamos a variável `nps_score` como a que
 
 ## :hammer_and_wrench: Preparação dos dados:
 
-Para a realização da análise exploratória de dados, optamos pelo uso da ferramenta Google Colab, 
+Para a realização da análise exploratória de dados, optamos pelo uso da ferramenta Google Colab, que um serviço gratuito em nuvem do Google que permite escrever e executar codigos em Python diretamente no navegador, reduzindo a necessidade de configurações complexas de ambiente. 
 
-Aproveitando a capacidade da ferramenta de conectar-se a fontes externas, utilizamos o recurso de importação de dados (**Obter Dados > De Arquivo > De Texto/CSV**). O vínculo foi estabelecido diretamente com o arquivo `desafio_nps_fase_1.csv` (localizado na pasta `/Dados`) via funcionalidade RAW do GitHub. Esse método permite o consumo dos dados brutos, sem a formatação HTML da interface, através do link: (https://raw.githubusercontent.com/andersonsariliods/FIAP1AST_TechChallenge/refs/heads/main/Fase_1/Dados/desafio_nps_fase_1.csv)
+Aproveitando a capacidade da ferramenta de conectar-se a fontes externas, utilizamos o recurso de importação de dados diretamente com o arquivo `desafio_nps_fase_1.csv` (localizado na pasta `/Dados`) via funcionalidade RAW do GitHub. Esse método permite o consumo dos dados brutos, sem a formatação HTML da interface, através do link: (https://raw.githubusercontent.com/andersonsariliods/FIAP1AST_TechChallenge/refs/heads/main/Fase_1/Dados/desafio_nps_fase_1.csv)
 
-O resultado dessa análise foi consolidado no arquivo `NPS Dataviz.xlsx`, disponível na pasta `/Análise`, garantindo que qualquer usuário possa realizar o download e reproduzir os resultados obtidos.
+O resultado dessa análise foi consolidado no arquivo `FIAP1AST_TechChallenge_Fase1.ipynb`, disponível na pasta `/Análise`, garantindo que qualquer usuário possa realizar o download e reproduzir os resultados obtidos.
 
-Após a importação, analisamos os dados obtidos e realizamos as seguintes etapas de limpeza, transformação dos dados através do recurso **Power Query** disponível no **Microsoft Excel**. 
+Após a importação, analisamos os dados obtidos afim de verificar se houve inconsistencias na etapa de importação dos dados: 
 
-- **Titulos das colunas:** Seleciona para que seja mantidada a primeira linha do arquivo `desafio_nps_fase_1.csv` como o nome das colunas.
-  
   <img width="1834" height="409" alt="Preparação de dados conversão da primeira linha para titulos" src="https://github.com/andersonsariliods/FIAP1AST_TechChallenge/blob/main/Fase_1/Assets/dataprep_titulos_paracolunas.png" />
 
 </br>
